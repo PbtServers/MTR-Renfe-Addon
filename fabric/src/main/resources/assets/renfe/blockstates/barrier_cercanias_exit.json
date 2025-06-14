@@ -1,0 +1,72 @@
+{
+  "variants": {
+    "facing=north,open=closed": {
+      "model":  "renfe:block/barrier_cercanias_exit_close",
+      "y": 180
+
+    },
+    "facing=south,open=closed": {
+      "model":  "renfe:block/barrier_cercanias_exit_close"
+
+    },
+    "facing=west,open=closed": {
+      "model":  "renfe:block/barrier_cercanias_exit_close",
+      "y": 90
+    },
+    "facing=east,open=closed": {
+      "model":  "renfe:block/barrier_cercanias_exit_close",
+      "y": 270
+    },
+    "facing=north,open=pending": {
+      "model":  "renfe:block/barrier_cercanias_exit_close",
+      "y": 180
+
+    },
+    "facing=south,open=pending": {
+      "model":  "renfe:block/barrier_cercanias_exit_close"
+
+    },
+    "facing=west,open=pending": {
+      "model":  "renfe:block/barrier_cercanias_exit_close",
+      "y": 90
+    },
+    "facing=east,open=pending": {
+      "model":  "renfe:block/barrier_cercanias_exit_close",
+      "y": 270
+    },
+    "facing=north,open=open": {
+      "model":  "renfe:block/barrier_cercanias_exit_open",
+      "y": 180
+
+    },
+    "facing=south,open=open": {
+      "model":  "renfe:block/barrier_cercanias_exit_open"
+
+    },
+    "facing=west,open=open": {
+      "model":  "renfe:block/barrier_cercanias_exit_open",
+      "y": 90
+    },
+    "facing=east,open=open": {
+      "model":  "renfe:block/barrier_cercanias_exit_open",
+      "y": 270
+    },
+    "facing=north,open=open_concessionary": {
+      "model":  "renfe:block/barrier_cercanias_exit_open",
+      "y": 180
+
+    },
+    "facing=south,open=open_concessionary": {
+      "model":  "renfe:block/barrier_cercanias_exit_open"
+
+    },
+    "facing=west,open=open_concessionary": {
+      "model":  "renfe:block/barrier_cercanias_exit_open",
+      "y": 90
+    },
+    "facing=east,open=open_concessionary": {
+      "model":  "renfe:block/barrier_cercanias_exit_open",
+      "y": 270
+    }
+  }
+}

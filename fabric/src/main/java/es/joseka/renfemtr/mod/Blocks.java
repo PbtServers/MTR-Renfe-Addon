@@ -2,11 +2,15 @@ package es.joseka.renfemtr.mod;
 
 import org.mtr.mapping.holder.Block;
 import org.mtr.mapping.holder.Identifier;
+import org.mtr.mapping.mapper.BlockExtension;
 import org.mtr.mapping.mapper.BlockHelper;
 import org.mtr.mapping.registry.BlockRegistryObject;
 import es.joseka.renfemtr.mod.blocks.*;
 import org.mtr.mod.block.BlockPlatform;
+import org.mtr.mod.block.BlockTicketBarrier;
 import org.mtr.mod.block.BlockTicketMachine;
+
+import static org.mtr.mod.Blocks.createDefaultBlockSettings;
 
 public class Blocks{
     static {
@@ -49,11 +53,17 @@ public class Blocks{
         SIGNAL_120_ADVERTISEMENT_ORANGE = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "signal_120_advertisement_orange"), () -> new Block(new RenfeSignals()), CreativeModeTabs.SIGNALS);
         PLAT_ADIF_NUMBER = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "plat_adif_number"), () -> new Block(new PlatformsNumber()), CreativeModeTabs.SIGNALS);
         PLAT_CERCANIAS_NUMBER = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "plat_cercanias_number"), () -> new Block(new PlatformsNumber()), CreativeModeTabs.SIGNALS);
-        PLATFORM_ES_1 = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "platform_es_1"), () -> new Block(new BlockPlatform(BlockHelper.createBlockSettings(false), false)), CreativeModeTabs.DECORATIONS);
-        PLATFORM_ES_2 = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "platform_es_2"), () -> new Block(new BlockPlatform(BlockHelper.createBlockSettings(false), false)), CreativeModeTabs.DECORATIONS);
-        RENFE_TICKET_MACHINE_1 = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "renfe_ticket_machine_1"), () -> new Block(new BlockTicketMachine(BlockHelper.createBlockSettings(true, blockState -> 5))), CreativeModeTabs.DECORATIONS);
+        PLAT_RODALIES_NUMBER = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "plat_rodalies_number"), () -> new Block(new PlatformsNumber()), CreativeModeTabs.SIGNALS);
+        PLATFORM_ES_1 = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "platform_es_1"), () -> new Block(new BlockPlatform(createDefaultBlockSettings(false), false)), CreativeModeTabs.DECORATIONS);
+        PLATFORM_ES_2 = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "platform_es_2"), () -> new Block(new BlockPlatform(createDefaultBlockSettings(false), false)), CreativeModeTabs.DECORATIONS);
+        RENFE_TICKET_MACHINE_1 = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "renfe_ticket_machine_1"), () -> new Block(new BlockTicketMachine(createDefaultBlockSettings(true, blockState -> 5))), CreativeModeTabs.DECORATIONS);
         BUFFER_STOP = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "buffer_stop"), () -> new Block(new BufferStop()), CreativeModeTabs.DECORATIONS);
-
+        SIGNAL_END_CATENARY = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "end_electric_line"), () -> new Block(new RenfeSignals()), CreativeModeTabs.SIGNALS);
+        BARRIER_ENTRANCE_CERCANIAS = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "barrier_cercanias_entrance"), () -> new Block(new BlockTicketBarrier(true)), CreativeModeTabs.DECORATIONS);
+        BARRIER_ENTRANCE_RODALIES = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "barrier_rodalies_entrance"), () -> new Block(new BlockTicketBarrier(true)), CreativeModeTabs.DECORATIONS);
+        BARRIER_EXIT_CERCANIAS = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "barrier_cercanias_exit"), () -> new Block(new BlockTicketBarrier(false)), CreativeModeTabs.DECORATIONS);
+        BARRIER_EXIT_RODALIES = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "barrier_rodalies_exit"), () -> new Block(new BlockTicketBarrier(false)), CreativeModeTabs.DECORATIONS);
+        BARRIER_END = Init.REGISTRY.registerBlockWithBlockItem(new Identifier(Init.MOD_ID, "barrier_end"), () -> new Block(new DefaultVoxelShape()), CreativeModeTabs.DECORATIONS);
     }
 
     public static final BlockRegistryObject SIGNAL_TRENCH;
@@ -95,10 +105,17 @@ public class Blocks{
     public static final BlockRegistryObject SIGNAL_120_ADVERTISEMENT_ORANGE;
     public static final BlockRegistryObject PLAT_ADIF_NUMBER;
     public static final BlockRegistryObject PLAT_CERCANIAS_NUMBER;
+    public static final BlockRegistryObject PLAT_RODALIES_NUMBER;
     public static final BlockRegistryObject PLATFORM_ES_1;
     public static final BlockRegistryObject PLATFORM_ES_2;
     public static final BlockRegistryObject RENFE_TICKET_MACHINE_1;
     public static final BlockRegistryObject BUFFER_STOP;
+    public static final BlockRegistryObject SIGNAL_END_CATENARY;
+    public static final BlockRegistryObject BARRIER_ENTRANCE_CERCANIAS;
+    public static final BlockRegistryObject BARRIER_ENTRANCE_RODALIES;
+    public static final BlockRegistryObject BARRIER_EXIT_CERCANIAS;
+    public static final BlockRegistryObject BARRIER_EXIT_RODALIES;
+    public static final BlockRegistryObject BARRIER_END;
 
 
 

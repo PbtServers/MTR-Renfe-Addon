@@ -30,6 +30,11 @@ public class InitClient {
 		REGISTRY_CLIENT.registerBlockRenderType(RenderLayer.getCutout(), Blocks.SIGNAL_120_PREADVERTISEMENT);
 		REGISTRY_CLIENT.registerBlockRenderType(RenderLayer.getCutout(), Blocks.PLATFORM_ES_1);
 		REGISTRY_CLIENT.registerBlockRenderType(RenderLayer.getCutout(), Blocks.PLATFORM_ES_2);
+		REGISTRY_CLIENT.registerBlockRenderType(RenderLayer.getTranslucent(), Blocks.BARRIER_ENTRANCE_CERCANIAS);
+		REGISTRY_CLIENT.registerBlockRenderType(RenderLayer.getTranslucent(), Blocks.BARRIER_ENTRANCE_RODALIES);
+		REGISTRY_CLIENT.registerBlockRenderType(RenderLayer.getTranslucent(), Blocks.BARRIER_EXIT_CERCANIAS);
+		REGISTRY_CLIENT.registerBlockRenderType(RenderLayer.getTranslucent(), Blocks.BARRIER_EXIT_RODALIES);
+		REGISTRY_CLIENT.registerBlockRenderType(RenderLayer.getTranslucent(), Blocks.BARRIER_END);
 		REGISTRY_CLIENT.init();
 	}
 

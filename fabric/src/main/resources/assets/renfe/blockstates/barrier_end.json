@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model":  "renfe:block/barrier_end"
+
+    },
+    "facing=south": {
+      "model":  "renfe:block/barrier_end",
+      "y": 180
+    },
+    "facing=west": {
+      "model":  "renfe:block/barrier_end",
+      "y": 270
+    },
+    "facing=east": {
+      "model":  "renfe:block/barrier_end",
+      "y": 90
+    }
+  }
+}

@@ -1,16 +1,23 @@
 package es.joseka.renfemtr.mod;
 
 
+import es.joseka.renfemtr.mod.data.ExtendedRailType;
 import es.joseka.renfemtr.mod.items.*;
 import org.mtr.mapping.holder.Identifier;
 import org.mtr.mapping.holder.Item;
 import org.mtr.mapping.registry.ItemRegistryObject;
+import org.mtr.mod.item.ItemRailModifier;
 
 public class Items {
     static {
         PLAT_NUMBER_CHANGER = Init.REGISTRY.registerItem(new Identifier(Init.MOD_ID, "plat_number_changer"), itemSettings -> new Item(new PlatformChangerNumber(itemSettings.maxCount(1))), CreativeModeTabs.SIGNALS);
+        RAIL_CONNECTOR_5 = Init.REGISTRY.registerItem(new Identifier(Init.MOD_ID, "rail_connector_5"), itemSettings -> new Item(new ExtendedItemRailModifier(true, false, true, false, ExtendedRailType.PINK, itemSettings)), CreativeModeTabs.RAILWAYS);
+        RAIL_CONNECTOR_30 = Init.REGISTRY.registerItem(new Identifier(Init.MOD_ID, "rail_connector_30"), itemSettings -> new Item(new ExtendedItemRailModifier(true, false, true, false, ExtendedRailType.DIRT, itemSettings)), CreativeModeTabs.RAILWAYS);
     }
 public static final ItemRegistryObject PLAT_NUMBER_CHANGER;
+public static final ItemRegistryObject RAIL_CONNECTOR_5;
+public static final ItemRegistryObject RAIL_CONNECTOR_30;
+
 
 
     public static void init() {

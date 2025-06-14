@@ -2,10 +2,10 @@ package es.joseka.renfemtr.mod.blocks;
 
 import org.mtr.mapping.holder.*;
 import org.mtr.mapping.mapper.BlockExtension;
-import org.mtr.mapping.mapper.BlockHelper;
 import org.mtr.mapping.mapper.DirectionHelper;
 import org.mtr.mapping.tool.HolderBase;
 import org.mtr.mod.block.IBlock;
+import org.mtr.mod.Blocks;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
@@ -15,7 +15,8 @@ import java.util.List;
 public class RenfeSignals extends BlockExtension implements DirectionHelper {
 
     public RenfeSignals() {
-        super(BlockHelper.createBlockSettings(true, (state) -> 0).nonOpaque().strength(2));
+        super(Blocks.createDefaultBlockSettings(true, blockState -> 5));
+        //super(BlockHelper.createBlockSettings(true, (state) -> 0).nonOpaque().strength(2));
     }
     @Override
     public void addBlockProperties(List<HolderBase<?>> builder) {

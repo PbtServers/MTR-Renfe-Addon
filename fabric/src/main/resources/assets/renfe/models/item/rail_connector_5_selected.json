@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "renfe:item/rail_connector_5",
+		"layer1": "renfe:item/rail_connector_selected"
+	}
+}

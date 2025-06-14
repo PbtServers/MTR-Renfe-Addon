@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "renfe:item/signal_end_cantenary",
+		"1": "renfe:block/circle_texture",
+		"2": "renfe:block/metal",
+		"particle": "renfe:item/signal_end_cantenary"
+	},
+	"elements": [
+		{
+			"from": [1.95, 2.66472, 21],
+			"to": [13.1, 13.81472, 22],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8.05, 8.725, 5]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 1], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 1], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [0, 0, 1, 16], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 16], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"display": {}
+}

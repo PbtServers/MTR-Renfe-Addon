@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model":  "renfe:block/end_electric_line",
+      "y": 180
+    },
+    "facing=south": {
+      "model":  "renfe:block/end_electric_line"
+    },
+    "facing=west": {
+      "model":  "renfe:block/end_electric_line",
+      "y": 90
+    },
+    "facing=east": {
+      "model":  "renfe:block/end_electric_line",
+      "y": 270
+    }
+  }
+}
+

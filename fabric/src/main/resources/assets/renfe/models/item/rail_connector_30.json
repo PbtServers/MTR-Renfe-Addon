@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "renfe:item/rail_connector_30"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"renfe:selected": 1
+			},
+			"model": "renfe:item/rail_connector_30_selected"
+		}
+	]
+}

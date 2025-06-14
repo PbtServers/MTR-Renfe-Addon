@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"texture_size": [922, 792],
 	"textures": {
 		"2": "renfe:block/plat_sign_cercanias/c_1",
 		"particle": "renfe:block/plat_sign_cercanias/c_1"
@@ -12,11 +11,11 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"east": {"uv": [0, 0, 0.03471, 0.32323], "texture": "#2"},
+				"east": {"uv": [14.43404, 0, 16, 0.72948], "texture": "#2"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"west": {"uv": [0, 0, 0.03471, 0.32323], "texture": "#2"},
-				"up": {"uv": [12.87521, 3.10688, 16, 1.47005], "texture": "#2"},
-				"down": {"uv": [14.07499, 1.02315, 11.26357, 3.36708], "texture": "#2"}
+				"west": {"uv": [14.43404, 0, 16, 0.69823], "texture": "#2"},
+				"up": {"uv": [14.37521, 0.73058, 16, 0], "texture": "#2"},
+				"down": {"uv": [16, 0, 14.37608, 0.71893], "texture": "#2"}
 			}
 		}
 	]
