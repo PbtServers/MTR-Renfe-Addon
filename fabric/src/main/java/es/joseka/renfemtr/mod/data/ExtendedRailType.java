@@ -3,10 +3,9 @@ package es.joseka.renfemtr.mod.data;
 import org.mtr.core.data.Rail;
 import org.mtr.mapping.holder.MapColor;
 import org.mtr.mod.data.IGui;
-import org.mtr.mod.data.RailType;
 
 public enum ExtendedRailType implements IGui {
-    PINK(5, MapColor.getBlueMapped(), false, true, true, Rail.Shape.QUADRATIC),
+    PINK(5, MapColor.getStoneGrayMapped(), false, true, true, Rail.Shape.QUADRATIC),
     DIRT(30, MapColor.getTerracottaBrownMapped(), false, true, true, Rail.Shape.QUADRATIC),
     CABLE_CAR(30, MapColor.getWhiteMapped(), false, true, true, Rail.Shape.CABLE),
     CABLE_CAR_STATION(2, MapColor.getWhiteMapped(), false, true, true, Rail.Shape.QUADRATIC),
@@ -32,6 +31,7 @@ public enum ExtendedRailType implements IGui {
     public static int getRailColor(Rail rail) {
         for (final ExtendedRailType railType : values()) {
                 if (railType.speedLimit == Math.max(rail.getSpeedLimitKilometersPerHour(false), rail.getSpeedLimitKilometersPerHour(true))) {
+
                     return railType.color;
                 }
             }

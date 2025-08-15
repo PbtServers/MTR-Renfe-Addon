@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "renfe",
-	"version": "Version-3",
+	"version": "4",
 	"name": "MTR Renfe Addon",
 	"description": "Renfe addon is now available for minecraft transit Railway Mod",
 	"authors": [
@@ -27,6 +27,6 @@
 	"depends": {
 		"fabric": "*",
 		"minecraft": "1.20.4",
-		"mtr": ">=4.0.0-beta.16 <4.1"
+		"mtr": ">=4.0.0 <4.1"
 	}
 }

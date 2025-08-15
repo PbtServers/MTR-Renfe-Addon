@@ -30,6 +30,6 @@ side = "BOTH"
 [[dependencies.renfe]]
 modId = "mtr"
 mandatory = true
-versionRange = "[4.0.0-beta.12,4.1)"
+versionRange = "[4.0.0,4.1)"
 ordering = "AFTER"
 side = "BOTH"
