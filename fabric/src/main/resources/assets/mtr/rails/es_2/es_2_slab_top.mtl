@@ -1,0 +1,8 @@
+# Made in Blockbench 4.12.6
+newmtl m_59ada9b4-f152-ddfb-493d-90708f2c4860
+map_Kd smooth_stone_slab_side.png
+newmtl m_ecba7e8a-20ab-d384-2a81-9e1985c08050
+map_Kd smooth_stone.png
+newmtl m_a3a90ef6-51d4-a1bd-f42f-84af0ae08cbb
+map_Kd platform_es_2.png
+newmtl none

@@ -6,6 +6,7 @@ import com.google.gson.JsonParser;
 import com.jonafanho.apitools.ModId;
 import com.jonafanho.apitools.ModLoader;
 import com.jonafanho.apitools.ModProvider;
+import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.IOUtils;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
@@ -56,10 +57,21 @@ public class BuildTools {
 		return getJson("https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json").getAsJsonObject().getAsJsonObject("promos").get(minecraftVersion + "-latest").getAsString();
 	}
 
+	public void copyFontDefinitionCercanias(String fontName) throws IOException {
+		final String legacyFont = "legacy_unicode\",\"sizes\":\"minecraft:font/glyph_sizes.bin\",\"template\":\"minecraft:font/unicode_page_%s.png";
+		final String modernFont = "reference\",\"id\":\"minecraft:include/space\"},{\"type\":\"reference\",\"id\":\"minecraft:include/default\"},{\"type\":\"reference\",\"id\":\"minecraft:include/unifont";
+		FileUtils.write(
+				path.resolve(String.format("src/main/resources/assets/renfe/font/%s.json", fontName)).toFile(),
+				FileUtils.readFileToString(path.resolve("src/main/font_cercanias.json").toFile(), StandardCharsets.UTF_8).replace("@type@", majorVersion >= 20 ? modernFont : legacyFont).replace("@font@", fontName),
+				StandardCharsets.UTF_8
+		);
+	}
+
+
 	public void copyBuildFile() throws IOException {
 		final Path directory = path.getParent().resolve("build/release");
 		Files.createDirectories(directory);
-		Files.copy(path.resolve(String.format("build/libs/%s-%s.jar", loader, version)), directory.resolve(String.format("MTR-Renfe-Addon-%s-4.0.0-V%s+%s.jar", loader, version, minecraftVersion)), StandardCopyOption.REPLACE_EXISTING);
+		Files.copy(path.resolve(String.format("build/libs/%s-%s.jar", loader, version)), directory.resolve(String.format("MTR-Renfe-Addon-%s-4.0.2-V%s+%s.jar", loader, version, minecraftVersion)), StandardCopyOption.REPLACE_EXISTING);
 	}
 
 	private static JsonElement getJson(String url) {

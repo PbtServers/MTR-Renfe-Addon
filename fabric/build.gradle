@@ -11,6 +11,7 @@ loom {
 	runConfigs.configureEach { ideConfigGenerated = true }
 }
 
+
 dependencies {
 	minecraft "com.mojang:minecraft:${minecraftVersion}"
 	mappings "net.fabricmc:yarn:${buildTools.getYarnVersion()}:v2"
@@ -36,6 +37,8 @@ tasks.register("setupFiles") {
 		rename "(.+).template.json", "\$1.json"
 	}
 }
+
+buildTools.copyFontDefinitionCercanias("vialog")
 
 build {
 	doLast {

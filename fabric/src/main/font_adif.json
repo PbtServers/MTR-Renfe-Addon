@@ -1,0 +1,17 @@
+{
+	"providers": [
+		{
+			"type": "ttf",
+			"file": "renfe:@font@.ttf",
+			"size": 20.0,
+			"shift": [
+				0,
+				1.5
+			],
+			"oversample": 8.0
+		},
+		{
+			"type": "@type@"
+		}
+	]
+}

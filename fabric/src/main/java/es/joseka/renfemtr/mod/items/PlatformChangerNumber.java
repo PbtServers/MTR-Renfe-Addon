@@ -2,11 +2,8 @@ package es.joseka.renfemtr.mod.items;
 
 import org.mtr.mapping.holder.*;
 import org.mtr.mapping.mapper.ItemExtension;
-import org.mtr.mapping.mapper.TextHelper;
 import es.joseka.renfemtr.mod.blocks.ModelChangerBase;
 
-import javax.annotation.Nullable;
-import java.util.List;
 public class PlatformChangerNumber extends ItemExtension {
     public PlatformChangerNumber(ItemSettings itemSettings) {
         super(itemSettings);
@@ -23,7 +20,6 @@ public class PlatformChangerNumber extends ItemExtension {
                 final int count = ((ModelChangerBase) block.data).getCount();
                 int newValue = (value == count) ? 1 : (value + 1);
                 world.setBlockState(context.getBlockPos(), state.with(new Property<>(ModelChangerBase.TEXTURE.data), newValue ));
-                System.out.println("TEXTURE Actual: " + value + ", Nueva TEXTURE: " + newValue);
                 return ActionResult.SUCCESS;
             }
         }

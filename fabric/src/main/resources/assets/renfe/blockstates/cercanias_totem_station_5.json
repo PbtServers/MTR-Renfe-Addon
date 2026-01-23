@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model":  "renfe:block/cercanias_totem_station_5"
+    },
+    "facing=south": {
+      "model":  "renfe:block/cercanias_totem_station_5",
+      "y": 180
+    },
+    "facing=west": {
+      "model":  "renfe:block/cercanias_totem_station_5",
+      "y": 270
+    },
+    "facing=east": {
+      "model":  "renfe:block/cercanias_totem_station_5",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+    "pids_images": [
+      {
+        "id": "pids_cercanias",
+        "name": "PIDS Cercanías Spanish",
+        "builtin": true,
+        "background": "jsblock:textures/cercanias1.png",
+        "color": "000000",
+        "topPadding": false,
+        "showWeather": false,
+        "showClock": false,
+        "fonts": "renfe:vialog_pids",
+        "hideRow": [true, true, true, false],
+        "blacklist": ["pids_1a"]
+      },
+      {
+        "id": "pids_adif",
+        "name": "Adif Arrivals",
+        "builtin": true,
+        "background": "jsblock:textures/pids_adif.png",
+        "fonts": "renfe:vialog_pids",
+        "scriptFiles": ["jsblock:scripts/pids_adif_1.js"],
+        "blacklist": ["pids_1a"]
+      },
+      {
+        "id": "pids_cercanias_es_1",
+        "name": "Cercanias español",
+        "builtin": true,
+        "background": "jsblock:textures/cercanias1.png",
+        "fonts": "renfe:vialog_pids",
+        "scriptFiles": ["jsblock:scripts/pids_cercanias_es_1.js"],
+        "blacklist": ["pids_1a"]
+      },
+      {
+        "id": "pids_cercanias_es_2",
+        "name": "Cercanias español",
+        "builtin": true,
+        "background": "jsblock:textures/cercanias1.png",
+        "fonts": "renfe:vialog_pids",
+        "scriptFiles": ["jsblock:scripts/pids_cercanias_es_2.js"],
+        "blacklist": ["rv_pids_sil_1", "rv_pids_sil_2", "lcd_pids", "rv_pids"]
+      },
+      {
+        "id": "pids_rodalies_1",
+        "name": "Rodalies de Catalunya",
+        "builtin": true,
+        "background": "jsblock:textures/rodalies.png",
+        "fonts": "renfe:vialog_pids",
+        "scriptFiles": ["jsblock:scripts/pids_rodalies_1.js"],
+        "blacklist": ["pids_1a"]
+      },
+      {
+        "id": "pids_rodalies_2",
+        "name": "Rodalies de Catalunya",
+        "builtin": true,
+        "background": "jsblock:textures/cercanias1.png",
+        "fonts": "renfe:vialog_pids",
+        "scriptFiles": ["jsblock:scripts/pids_rodalies_2.js"],
+        "blacklist": ["rv_pids_sil_1", "rv_pids_sil_2", "lcd_pids", "rv_pids"]
+      },
+      {
+        "id": "test",
+        "name": "Cercanias",
+        "builtin": true,
+        "background": "jsblock:textures/cercanias1.png",
+        "fonts": "renfe:vialog_pids",
+        "scriptFiles": ["jsblock:scripts/test.js"]
+      },
+      {
+        "id": "pids_cercanias_eus_1",
+        "name": "Cercanias Euskera",
+        "builtin": true,
+        "background": "jsblock:textures/cercanias1.png",
+        "fonts": "renfe:vialog_pids",
+        "scriptFiles": ["jsblock:scripts/pids_cercanias_eus_1.js"],
+        "blacklist": ["pids_1a"]
+      },
+      {
+        "id": "pids_cercanias_eus_2",
+        "name": "Cercanias Euskera",
+        "builtin": true,
+        "background": "jsblock:textures/cercanias1.png",
+        "fonts": "renfe:vialog_pids",
+        "scriptFiles": ["jsblock:scripts/pids_cercanias_eus_2.js"],
+        "blacklist": ["rv_pids_sil_1", "rv_pids_sil_2", "lcd_pids", "rv_pids"]
+      },
+      {
+        "id": "pids_cercanias_val_1",
+        "name": "Cercanias València",
+        "builtin": true,
+        "background": "jsblock:textures/cercanias1.png",
+        "fonts": "renfe:vialog_pids",
+        "scriptFiles": ["jsblock:scripts/pids_cercanias_val_1.js"],
+        "blacklist": ["pids_1a"]
+      },
+      {
+        "id": "pids_cercanias_val_2",
+        "name": "Cercanias València",
+        "builtin": true,
+        "background": "jsblock:textures/cercanias1.png",
+        "fonts": "renfe:vialog_pids",
+        "scriptFiles": ["jsblock:scripts/pids_cercanias_val_2.js"],
+        "blacklist": ["rv_pids_sil_1", "rv_pids_sil_2", "lcd_pids", "rv_pids"]
+      }
+    ]
+}

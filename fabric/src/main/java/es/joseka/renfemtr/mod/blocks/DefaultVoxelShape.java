@@ -14,8 +14,7 @@ import java.util.List;
 public class DefaultVoxelShape extends BlockExtension implements DirectionHelper {
 
     public DefaultVoxelShape() {
-        super(Blocks.createDefaultBlockSettings(true, blockState -> 5));
-        //super(BlockHelper.createBlockSettings(true, (state) -> 0).nonOpaque().strength(2));
+        super(Blocks.createDefaultBlockSettings(true, blockState -> 0).nonOpaque());
     }
     @Override
     public void addBlockProperties(List<HolderBase<?>> builder) {
@@ -31,7 +30,7 @@ public class DefaultVoxelShape extends BlockExtension implements DirectionHelper
     @Nonnull
     @Override
     public VoxelShape getOutlineShape2(BlockState blockState, BlockView world, BlockPos pos, ShapeContext context) {
-        return IBlock.getVoxelShapeByDirection(0, 0.1, 0, 16, 16, 16, IBlock.getStatePropertySafe(blockState, FACING));
+        return IBlock.getVoxelShapeByDirection(0, 0, 0, 16, 16, 16, IBlock.getStatePropertySafe(blockState, FACING));
     }
 
 }

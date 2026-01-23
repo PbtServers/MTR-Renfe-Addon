@@ -57,6 +57,12 @@ tasks.register("setupFiles") {
 	delete fileTree("src/main/java/es/joseka/renfemtr/mod")
 	delete fileTree("src/main/resources/assets")
 	delete fileTree("src/main/resources/data")
+	delete fileTree("run/mods")
+	copy {
+		outputs.upToDateWhen { false }
+		from "run/mods_bak/${minecraftVersion}"
+		into 'run/mods'
+	}
 
 	copy {
 		outputs.upToDateWhen { false }

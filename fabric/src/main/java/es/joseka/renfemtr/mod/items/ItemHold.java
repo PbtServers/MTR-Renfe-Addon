@@ -25,7 +25,7 @@ public class ItemHold extends BlockItemExtension {
                     num++;
                 }
                 tag.putInt(TAG_HOLD, num);
-                System.out.println("TAG_HOLD actual: " + tag.getInt(TAG_HOLD));
+                //System.out.println("TAG_HOLD actual: " + tag.getInt(TAG_HOLD));
             } else {
                 tag.putInt(TAG_HOLD, 0);
             }

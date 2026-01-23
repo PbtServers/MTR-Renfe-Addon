@@ -15,8 +15,7 @@ import java.util.List;
 public class RenfeSignals extends BlockExtension implements DirectionHelper {
 
     public RenfeSignals() {
-        super(Blocks.createDefaultBlockSettings(true, blockState -> 5));
-        //super(BlockHelper.createBlockSettings(true, (state) -> 0).nonOpaque().strength(2));
+        super(Blocks.createDefaultBlockSettings(true, blockState -> 0));
     }
     @Override
     public void addBlockProperties(List<HolderBase<?>> builder) {

@@ -1,0 +1,83 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made by Joseka",
+	"textures": {
+		"0": "renfe:block/platform_es_2",
+		"1": "renfe:block/smooth_stone",
+		"particle": "renfe:block/platform_es_2"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16.075, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [0, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 0]},
+			"faces": {
+				"west": {"uv": [0, 0, 16, 8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-1.65851, 0, 11.99601],
+			"to": [20.96649, 16.075, 11.99601],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4.00399, 12, 11.99601]},
+			"faces": {
+				"south": {"uv": [0, 0, 16, 8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-6.63072, -0.001, 4.69202],
+			"to": [4.69428, -0.001, 15.99202],
+			"rotation": {"angle": 45, "axis": "y", "origin": [-3.30572, -2.001, 7.99202]},
+			"faces": {
+				"down": {"uv": [0, 0, 8, 8], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [1.36029, -0.001, -3.29758],
+			"to": [12.68529, -0.001, 8.00242],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4.68529, -2.001, 0.00242]},
+			"faces": {
+				"down": {"uv": [0, 0, 8, 8], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [1.36029, 16.099, -3.29758],
+			"to": [12.68529, 16.099, 8.00242],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4.68529, 14.099, 0.00242]},
+			"faces": {
+				"up": {"uv": [0, 0, 8, 8], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [1.36029, 16.124, -3.29758],
+			"to": [12.68529, 16.124, 8.00242],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4.68529, 14.124, 0.00242]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [-6.63072, 16.099, 4.69202],
+			"to": [4.69428, 16.099, 15.99202],
+			"rotation": {"angle": 45, "axis": "y", "origin": [-3.30572, 14.099, 7.99202]},
+			"faces": {
+				"up": {"uv": [0, 0, 8, 8], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [-6.63072, 16.124, 4.69202],
+			"to": [4.69428, 16.124, 15.99202],
+			"rotation": {"angle": 45, "axis": "y", "origin": [-3.30572, 14.124, 7.99202]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,154 @@
+{
+    "ut447_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/motor0",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/motor1",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_motor2": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/motor2",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_motor3": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/motor3",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_motor4": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/motor4",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_motor5": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/motor5",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_motor6": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/motor6",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_motor7": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/motor7",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_motor8": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/motor8",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_motor9": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/motor9",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_run": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/run",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_loop": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/loop",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_point": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/point",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_doorcls": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/doorcls",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_dooropn": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/dooropn",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_airzero": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/airzero",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	},
+	"ut447_airhigh": {
+		"sounds": [
+			{
+				"name": "mtr:ut447/airhigh",
+				"pitch": 1,
+				"attenuation_distance": 64
+			}
+		]
+	}}
