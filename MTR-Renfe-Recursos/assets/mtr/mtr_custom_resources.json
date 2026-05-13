@@ -1,0 +1,1380 @@
+{
+    "vehicles": [
+        {
+            "id": "pantone_br_423_pantone_trailer",
+            "name": "Renfe BR 423 Pantone (Trailer)",
+            "color": "FF0000",
+            "transportMode": "TRAIN",
+            "length": 16.0,
+            "width": 3.0,
+            "bogie1Position": -5.0,
+            "bogie2Position": 5.0,
+            "couplingPadding1": 0.0,
+            "couplingPadding2": 0.0,
+            "description": "Train in RENFE's official Pantone livery.",
+            "wikipediaArticle": "DBAG_Class_423",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/pantone/br_423_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_pantone_end_1.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_pantone.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/pantone/br_423_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_pantone_common.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_pantone.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/pantone/br_423_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_pantone_end_2.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_pantone.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "br_423",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "pantone_br_423_pantone_forwards",
+            "name": "Renfe BR 423 Pantone (forwards)",
+            "color": "FF0000",
+            "transportMode": "TRAIN",
+            "length": 16.0,
+            "width": 4.0,
+            "bogie1Position": -7.0,
+            "bogie2Position": 5.0,
+            "couplingPadding1": 3.0,
+            "couplingPadding2": 0.0,
+            "description": "Train in RENFE's official Pantone livery.",
+            "wikipediaArticle": "DBAG_Class_423",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/pantone/br_423_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_pantone_head_1.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_pantone.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/pantone/br_423_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_pantone_common.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_pantone.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/pantone/br_423_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_pantone_end_2.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_pantone.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "br_423",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "pantone_br_423_pantone_backwards",
+            "name": "Renfe BR 423 Pantone (Backwards)",
+            "color": "FF0000",
+            "transportMode": "TRAIN",
+            "length": 16.0,
+            "width": 5.0,
+            "bogie1Position": -5.0,
+            "bogie2Position": 7.0,
+            "couplingPadding1": 0.0,
+            "couplingPadding2": 3.0,
+            "description": "Train in RENFE's official Pantone livery.",
+            "wikipediaArticle": "DBAG_Class_423",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/pantone/br_423_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_pantone_head_2.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_pantone.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/pantone/br_423_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_pantone_common.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_pantone.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/pantone/br_423_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_pantone_end_1.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_pantone.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "br_423",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "pantone_br_423_pantone_small",
+            "name": "Renfe BR 423 Pantone (Small)",
+            "color": "FF0000",
+            "transportMode": "TRAIN",
+            "length": 16.0,
+            "width": 3.0,
+            "bogie1Position": -7.0,
+            "bogie2Position": 7.0,
+            "couplingPadding1": 2.37,
+            "couplingPadding2": 2.37,
+            "description": "Train in RENFE's official Pantone livery.",
+            "wikipediaArticle": "DBAG_Class_423",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/pantone/br_423_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_pantone_head_1.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_pantone.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/pantone/br_423_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_pantone_common.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_pantone.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/pantone/br_423_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_pantone_head_2.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_pantone.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "br_423",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "rodalies_br_423_rodalies_trailer",
+            "name": "Renfe BR 423 Rodalies (Trailer)",
+            "color": "FF9B00",
+            "transportMode": "TRAIN",
+            "length": 16.0,
+            "width": 3.0,
+            "bogie1Position": -5.0,
+            "bogie2Position": 5.0,
+            "couplingPadding1": 0.0,
+            "couplingPadding2": 0.0,
+            "description": "Train in the Rodalies de Catalunya livery, used in Catalonia.",
+            "wikipediaArticle": "DBAG_Class_423",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/rodalies/br_423_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_rodalies_end_1.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_rodalies.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/rodalies/br_423_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_rodalies_common.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_rodalies.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/rodalies/br_423_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_rodalies_end_2.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_rodalies.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "br_423",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "rodalies_br_423_rodalies_forwards",
+            "name": "Renfe BR 423 Rodalies (forwards)",
+            "color": "FF9B00",
+            "transportMode": "TRAIN",
+            "length": 16.0,
+            "width": 4.0,
+            "bogie1Position": -7.0,
+            "bogie2Position": 5.0,
+            "couplingPadding1": 3.0,
+            "couplingPadding2": 0.0,
+            "description": "Train in the Rodalies de Catalunya livery, used in Catalonia.",
+            "wikipediaArticle": "DBAG_Class_423",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/rodalies/br_423_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_rodalies_head_1.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_rodalies.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/rodalies/br_423_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_rodalies_common.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_rodalies.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/rodalies/br_423_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_rodalies_end_2.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_rodalies.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "br_423",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "rodalies_br_423_rodalies_backwards",
+            "name": "Renfe BR 423 Rodalies (Backwards)",
+            "color": "FF9B00",
+            "transportMode": "TRAIN",
+            "length": 16.0,
+            "width": 5.0,
+            "bogie1Position": -5.0,
+            "bogie2Position": 7.0,
+            "couplingPadding1": 0.0,
+            "couplingPadding2": 3.0,
+            "description": "Train in the Rodalies de Catalunya livery, used in Catalonia.",
+            "wikipediaArticle": "DBAG_Class_423",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/rodalies/br_423_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_rodalies_head_2.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_rodalies.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/rodalies/br_423_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_rodalies_common.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_rodalies.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/rodalies/br_423_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_rodalies_end_1.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_rodalies.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "br_423",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "rodalies_br_423_rodalies_small",
+            "name": "Renfe BR 423 Rodalies (Small)",
+            "color": "FF9B00",
+            "transportMode": "TRAIN",
+            "length": 16.0,
+            "width": 3.0,
+            "bogie1Position": -7.0,
+            "bogie2Position": 7.0,
+            "couplingPadding1": 2.37,
+            "couplingPadding2": 2.37,
+            "description": "Train in the Rodalies de Catalunya livery, used in Catalonia.",
+            "wikipediaArticle": "DBAG_Class_423",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/rodalies/br_423_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_rodalies_head_1.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_rodalies.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/rodalies/br_423_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_rodalies_common.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_rodalies.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/vehicle/br_423.bbmodel",
+                    "textureResource": "mtr:textures/br_423/rodalies/br_423_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/br_423/br_423_rodalies_head_2.json",
+                    "positionDefinitionsResource": "mtr:definitions/br_423/br_423_rodalies.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+                    "textureResource": "mtr:textures/vehicle/bogie_1.png",
+                    "modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+                    "positionDefinitionsResource": "mtr:properties/definition/origin.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "br_423",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "pantone_ut_447_forwards",
+            "name": "UT 447 pantone forwards",
+            "color": "FF0000",
+            "transportMode": "TRAIN",
+            "length": 24.0,
+            "width": 0.5,
+            "bogie1Position": -8.8,
+            "bogie2Position": 9.0,
+            "couplingPadding1": 0.75,
+            "couplingPadding2": 0.0,
+            "description": "Renfe Class 447",
+            "wikipediaArticle": "Renfe_Class_447",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/ut_447/pantone/ut_447_pantone.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/pantone/ut_447_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards/properties_898d3380.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards/definition_70536996.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/ut_447/common/controls_ut_447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/controls_ut_447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards/properties_2be0cf13.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards/definition_ea45311d.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards/properties_c369dc29.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards/definition_23ba2f62.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards/properties_60731091.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards/definition_3548d736.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "ut447",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": true,
+            "legacyConstantPlaybackSpeed": true,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "pantone_ut_447_backwards",
+            "name": "UT 447 pantone backwards",
+            "color": "FF0000",
+            "transportMode": "TRAIN",
+            "length": 24.0,
+            "width": 0.5,
+            "bogie1Position": -9.0,
+            "bogie2Position": 8.8,
+            "couplingPadding1": 0.0,
+            "couplingPadding2": 0.75,
+            "description": "Renfe Class 447",
+            "wikipediaArticle": "Renfe_Class_447",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/ut_447/pantone/ut_447_pantone.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/pantone/ut_447_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards/properties_58ebc68a.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards/definition_57da95ad.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/ut_447/common/controls_ut_447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/controls_ut_447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards/properties_356f733b.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards/definition_97d1f8d7.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards/properties_ef42ffde.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards/definition_358c11b5.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards/properties_3f5fee07.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards/definition_bc629f94.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "ut447",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": true,
+            "legacyConstantPlaybackSpeed": true,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "pantone_ut_447_trailer_pmr_full_up",
+            "name": "UT 447 pantone trailer PMR (Full Up)",
+            "color": "FF0000",
+            "transportMode": "TRAIN",
+            "length": 24.0,
+            "width": 0.5,
+            "bogie1Position": -9.2,
+            "bogie2Position": 9.2,
+            "couplingPadding1": 0.5,
+            "couplingPadding2": 0.5,
+            "description": "Renfe Class 447",
+            "wikipediaArticle": "Renfe_Class_447",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/ut_447/pantone/ut_447_pmr_pantone.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/pantone/ut_447_pmr_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_68e40042.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_574acbe7.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/ut_447/common/pantograph.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/pantograph.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_f5a802c3.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_d036d59c.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_ea849ce5.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_5e69f2e4.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_9291c987.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_66053f94.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "ut447",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": true,
+            "legacyConstantPlaybackSpeed": true,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "pantone_ut_447_trailer_pmr_half_up",
+            "name": "UT 447 pantone trailer PMR (Half Up)",
+            "color": "FF0000",
+            "transportMode": "TRAIN",
+            "length": 24.0,
+            "width": 0.5,
+            "bogie1Position": -9.2,
+            "bogie2Position": 9.2,
+            "couplingPadding1": 0.5,
+            "couplingPadding2": 0.5,
+            "description": "Renfe Class 447",
+            "wikipediaArticle": "Renfe_Class_447",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/ut_447/pantone/ut_447_pmr_pantone.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/pantone/ut_447_pmr_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_68e40042.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_574acbe7.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/ut_447/common/pantograph.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/pantograph.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_f543da23.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_d036d59c.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_ea849ce5.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_5e69f2e4.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_9291c987.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_66053f94.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "ut447",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": true,
+            "legacyConstantPlaybackSpeed": true,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "pantone_ut_447_forwards_middle",
+            "name": "UT 447 pantone forwards middle",
+            "color": "FF0000",
+            "transportMode": "TRAIN",
+            "length": 24.0,
+            "width": 0.5,
+            "bogie1Position": -8.8,
+            "bogie2Position": 9.0,
+            "couplingPadding1": 0.75,
+            "couplingPadding2": 0.0,
+            "description": "Renfe Class 447",
+            "wikipediaArticle": "Renfe_Class_447",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/ut_447/pantone/ut_447_pantone.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/pantone/ut_447_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards_middle/properties_a63a7069.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards_middle/definition_92fc335a.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/ut_447/common/controls_ut_447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/controls_ut_447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards_middle/properties_ceb1c773.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards_middle/definition_78336f80.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards_middle/properties_7a069070.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards_middle/definition_468c3f8c.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards_middle/properties_c37148e7.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards_middle/definition_15b90b2c.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "ut447",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "pantone_ut_447_backwards_middle",
+            "name": "UT 447 pantone backwards middle",
+            "color": "FF0000",
+            "transportMode": "TRAIN",
+            "length": 24.0,
+            "width": 0.5,
+            "bogie1Position": -9.0,
+            "bogie2Position": 8.8,
+            "couplingPadding1": 0.0,
+            "couplingPadding2": 0.75,
+            "description": "Renfe Class 447",
+            "wikipediaArticle": "Renfe_Class_447",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/ut_447/pantone/ut_447_pantone.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/pantone/ut_447_pantone.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards_middle/properties_72fbb9c5.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards_middle/definition_dc912782.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/ut_447/common/controls_ut_447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/controls_ut_447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards_middle/properties_9003c044.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards_middle/definition_9d30e054.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards_middle/properties_df1d1343.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards_middle/definition_2a839410.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards_middle/properties_6d2989d2.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards_middle/definition_dbe0dd1e.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "ut447",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "rodalies_ut_447_forwards",
+            "name": "UT 447 rodalies forwards",
+            "color": "FF6600",
+            "transportMode": "TRAIN",
+            "length": 24.0,
+            "width": 0.5,
+            "bogie1Position": -8.8,
+            "bogie2Position": 9.0,
+            "couplingPadding1": 0.75,
+            "couplingPadding2": 0.0,
+            "description": "Renfe Class 447",
+            "wikipediaArticle": "Renfe_Class_447",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/ut_447/rodalies/ut_447_rodalies.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/rodalies/ut_447_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards/properties_b696d2f6.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards/definition_7c51214d.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/ut_447/common/controls_ut_447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/controls_ut_447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards/properties_2be0cf13.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards/definition_ea45311d.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards/properties_c369dc29.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards/definition_23ba2f62.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards/properties_60731091.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards/definition_3548d736.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "ut447",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "rodalies_ut_447_backwards",
+            "name": "UT 447 rodalies backwards",
+            "color": "FF6600",
+            "transportMode": "TRAIN",
+            "length": 24.0,
+            "width": 0.5,
+            "bogie1Position": -9.0,
+            "bogie2Position": 8.8,
+            "couplingPadding1": 0.0,
+            "couplingPadding2": 0.75,
+            "description": "Renfe Class 447",
+            "wikipediaArticle": "Renfe_Class_447",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/ut_447/rodalies/ut_447_rodalies.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/rodalies/ut_447_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards/properties_b5458ed2.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards/definition_612c96f3.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/ut_447/common/controls_ut_447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/controls_ut_447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards/properties_356f733b.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards/definition_97d1f8d7.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards/properties_ef42ffde.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards/definition_358c11b5.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards/properties_3f5fee07.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards/definition_bc629f94.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "ut447",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "rodalies_ut_447_trailer_pmr_full_up",
+            "name": "UT 447 rodalies trailer PMR (Full Up)",
+            "color": "FF6600",
+            "transportMode": "TRAIN",
+            "length": 24.0,
+            "width": 0.5,
+            "bogie1Position": -9.2,
+            "bogie2Position": 9.2,
+            "couplingPadding1": 0.5,
+            "couplingPadding2": 0.5,
+            "description": "Renfe Class 447",
+            "wikipediaArticle": "Renfe_Class_447",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/ut_447/rodalies/ut_447_pmr_rodalies.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/rodalies/ut_447_pmr_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_5aeadaa6.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_5b46471.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/ut_447/common/pantograph.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/pantograph.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_f5a802c3.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_d036d59c.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_ea849ce5.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_5e69f2e4.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_9291c987.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_66053f94.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "ut447",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "rodalies_ut_447_trailer_pmr_half_up",
+            "name": "UT 447 rodalies trailer PMR (Half Up)",
+            "color": "FF6600",
+            "transportMode": "TRAIN",
+            "length": 24.0,
+            "width": 0.5,
+            "bogie1Position": -9.2,
+            "bogie2Position": 9.2,
+            "couplingPadding1": 0.5,
+            "couplingPadding2": 0.5,
+            "description": "Renfe Class 447",
+            "wikipediaArticle": "Renfe_Class_447",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/ut_447/rodalies/ut_447_pmr_rodalies.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/rodalies/ut_447_pmr_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_5aeadaa6.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_5b46471.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/ut_447/common/pantograph.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/pantograph.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_f543da23.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_d036d59c.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_ea849ce5.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_5e69f2e4.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/trailer_pmr/properties_9291c987.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/trailer_pmr/definition_66053f94.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "ut447",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "rodalies_ut_447_forwards_middle",
+            "name": "UT 447 rodalies forwards middle",
+            "color": "FF6600",
+            "transportMode": "TRAIN",
+            "length": 24.0,
+            "width": 0.5,
+            "bogie1Position": -8.8,
+            "bogie2Position": 9.0,
+            "couplingPadding1": 0.75,
+            "couplingPadding2": 0.0,
+            "description": "Renfe Class 447",
+            "wikipediaArticle": "Renfe_Class_447",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/ut_447/rodalies/ut_447_rodalies.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/rodalies/ut_447_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards_middle/properties_ad0704f.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards_middle/definition_cf8d3a01.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/ut_447/common/controls_ut_447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/controls_ut_447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards_middle/properties_ceb1c773.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards_middle/definition_78336f80.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards_middle/properties_7a069070.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards_middle/definition_468c3f8c.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/forwards_middle/properties_c37148e7.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/forwards_middle/definition_15b90b2c.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "ut447",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        },
+        {
+            "id": "rodalies_ut_447_backwards_middle",
+            "name": "UT 447 rodalies backwards middle",
+            "color": "FF6600",
+            "transportMode": "TRAIN",
+            "length": 24.0,
+            "width": 0.5,
+            "bogie1Position": -9.0,
+            "bogie2Position": 8.8,
+            "couplingPadding1": 0.0,
+            "couplingPadding2": 0.75,
+            "description": "Renfe Class 447",
+            "wikipediaArticle": "Renfe_Class_447",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:models/ut_447/rodalies/ut_447_rodalies.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/rodalies/ut_447_rodalies.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards_middle/properties_4e11a365.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards_middle/definition_29266bae.json",
+                    "flipTextureV": true
+                },
+                {
+                    "modelResource": "mtr:models/ut_447/common/controls_ut_447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/controls_ut_447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards_middle/properties_9003c044.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards_middle/definition_9d30e054.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards_middle/properties_df1d1343.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards_middle/definition_2a839410.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:models/ut_447/common/bogie_ut447.bbmodel",
+                    "textureResource": "mtr:textures/ut_447/common/bogie_ut447.png",
+                    "modelPropertiesResource": "mtr:properties/ut_447/backwards_middle/properties_6d2989d2.json",
+                    "positionDefinitionsResource": "mtr:definitions/ut_447/backwards_middle/definition_dbe0dd1e.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "ut447",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0.0
+        }
+    ],
+    "signs": [],
+    "rails": [
+        {
+            "id": "curved_plat_es_1",
+            "name": "Platform ES 1",
+            "modelResource": "mtr:rails/es_1/es_1.obj",
+            "modelYOffset": 0,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_es_1_flipped",
+            "name": "Platform ES 1 Flipped",
+            "modelResource": "mtr:rails/es_1/es_1_flipped.obj",
+            "modelYOffset": 0,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_es_1_slab_bottom",
+            "name": "Platform ES 1 Slab Bottom",
+            "modelResource": "mtr:rails/es_1/es_1_slab_bottom.obj",
+            "modelYOffset": 0,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_es_1_slab_top",
+            "name": "Platform ES 1 Slab Top",
+            "modelResource": "mtr:rails/es_1/es_1_slab_top.obj",
+            "modelYOffset": 0,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_es_1_slab_bottom_flipped",
+            "name": "Platform ES 1 Slab Bottom Flipped",
+            "modelResource": "mtr:rails/es_1/es_1_slab_bottom_flipped.obj",
+            "modelYOffset": 0,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_es_1_slab_top_flipped",
+            "name": "Platform ES 1 Slab Top Flipped",
+            "modelResource": "mtr:rails/es_1/es_1_slab_top_flipped.obj",
+            "modelYOffset": 0,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_es_2",
+            "name": "Platform ES 2",
+            "modelResource": "mtr:rails/es_2/es_2.obj",
+            "modelYOffset": 0,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_es_2_flipped",
+            "name": "Platform ES 2 Flipped",
+            "modelResource": "mtr:rails/es_2/es_2_flipped.obj",
+            "modelYOffset": 0,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_es_2_slab_bottom",
+            "name": "Platform ES 2 Slab Bottom",
+            "modelResource": "mtr:rails/es_2/es_2_slab_bottom.obj",
+            "modelYOffset": 0,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_es_2_slab_top",
+            "name": "Platform ES 2 Slab Top",
+            "modelResource": "mtr:rails/es_2/es_2_slab_top.obj",
+            "modelYOffset": 0,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_es_2_slab_bottom_flipped",
+            "name": "Platform ES 2 Slab Bottom Flipped",
+            "modelResource": "mtr:rails/es_2/es_2_slab_bottom_flipped.obj",
+            "modelYOffset": 0,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        },
+        {
+            "id": "curved_plat_es_2_slab_top_flipped",
+            "name": "Platform ES 2 Slab Top Flipped",
+            "modelResource": "mtr:rails/es_2/es_2_slab_top_flipped.obj",
+            "modelYOffset": 0,
+            "flipTextureV": true,
+            "repeatInterval": 0.95
+        }
+    ],
+    "objects": []
+}
