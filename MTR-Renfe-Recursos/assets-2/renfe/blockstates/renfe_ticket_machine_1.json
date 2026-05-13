@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,half=lower": {
+      "model":  "renfe:block/renfe_ticket_machine_1",
+      "y": 180
+    },
+    "facing=south,half=lower": {
+      "model":  "renfe:block/renfe_ticket_machine_1"
+    },
+    "facing=west,half=lower": {
+      "model":  "renfe:block/renfe_ticket_machine_1",
+      "y": 90
+    },
+    "facing=east,half=lower": {
+      "model":  "renfe:block/renfe_ticket_machine_1",
+      "y": 270
+    },
+    "facing=north,half=upper": {
+      "model":  "minecraft:block/air",
+      "y": 180
+    },
+    "facing=south,half=upper": {
+      "model":  "minecraft:block/air"
+    },
+    "facing=west,half=upper": {
+      "model":  "minecraft:block/air",
+      "y": 90
+    },
+    "facing=east,half=upper": {
+      "model":  "minecraft:block/air",
+      "y": 270
+    }
+  }
+}

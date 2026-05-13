@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model":  "renfe:block/station_cercanias_logo_old"
+    },
+    "facing=south": {
+      "model":  "renfe:block/station_cercanias_logo_old",
+      "y": 180
+    },
+    "facing=west": {
+      "model":  "renfe:block/station_cercanias_logo_old",
+      "y": 270
+    },
+    "facing=east": {
+      "model":  "renfe:block/station_cercanias_logo_old",
+      "y": 90
+    }
+  }
+}

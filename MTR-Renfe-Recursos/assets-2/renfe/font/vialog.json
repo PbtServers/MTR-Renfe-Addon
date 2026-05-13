@@ -1,0 +1,17 @@
+{
+	"providers": [
+		{
+			"type": "ttf",
+			"file": "renfe:vialog.ttf",
+			"size": 25.0,
+			"shift": [
+				0,
+				1.5
+			],
+			"oversample": 8.0
+		},
+		{
+			"type": "reference","id":"minecraft:include/space"},{"type":"reference","id":"minecraft:include/default"},{"type":"reference","id":"minecraft:include/unifont"
+		}
+	]
+}

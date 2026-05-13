@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model":  "renfe:block/buffer_stop"
+
+    },
+    "facing=south": {
+      "model":  "renfe:block/buffer_stop",
+      "y": 180
+    },
+    "facing=west": {
+      "model":  "renfe:block/buffer_stop",
+      "y": 270
+    },
+    "facing=east": {
+      "model":  "renfe:block/buffer_stop",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "mtr:block/platform_base",
+  "textures": {
+    "main": "block/smooth_stone",
+    "top": "renfe:block/platform_es_1"
+  }
+}

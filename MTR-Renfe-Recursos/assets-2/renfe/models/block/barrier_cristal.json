@@ -1,0 +1,33 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made by Joseka",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "renfe:block/barrier_cercanias_cristal",
+		"particle": "renfe:block/barrier_cercanias_cristal"
+	},
+	"elements": [
+		{
+			"from": [0, 16, 7.775],
+			"to": [4, 23, 8.025],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 16, 6.4]},
+			"faces": {
+				"north": {"uv": [1, 8, 2, 9.75], "texture": "#0"},
+				"east": {"uv": [7.75, 8, 7.78125, 9.75], "texture": "#0"},
+				"south": {"uv": [2, 8, 3, 9.75], "texture": "#0"},
+				"west": {"uv": [8.25, 6.5, 8.28125, 8.25], "texture": "#0"},
+				"up": {"uv": [4, 8.53125, 3, 8.5], "texture": "#0"},
+				"down": {"uv": [9.5, 6.25, 8.5, 6.28125], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "up_base",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	],
+	"render_type": "translucent"
+}

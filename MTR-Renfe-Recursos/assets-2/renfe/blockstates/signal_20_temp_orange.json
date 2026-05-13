@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model":  "renfe:block/signal_20_temp_orange",
+      "y": 180
+    },
+    "facing=south": {
+      "model":  "renfe:block/signal_20_temp_orange"
+    },
+    "facing=west": {
+      "model":  "renfe:block/signal_20_temp_orange",
+      "y": 90
+    },
+    "facing=east": {
+      "model":  "renfe:block/signal_20_temp_orange",
+      "y": 270
+    }
+  }
+}

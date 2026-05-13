@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model":  "renfe:block/signal_40",
+      "y": 180
+    },
+    "facing=south": {
+      "model":  "renfe:block/signal_40"
+    },
+    "facing=west": {
+      "model":  "renfe:block/signal_40",
+      "y": 90
+    },
+    "facing=east": {
+      "model":  "renfe:block/signal_40",
+      "y": 270
+    }
+  }
+}
