@@ -1,0 +1,38 @@
+Most vehicles in the pack were converted from OMSI 2 and Transport Fever 2. 
+More details below.
+---
+VDL Berkhof Ambassador 200
+Credits to MVAG (Justin)
+OMSI 2: https://reboot.omsi-webdisk.de/file/12489-vdl-berkhof-ambassador-200/
+---
+SAZ HC40
+Credits to Marat (HarryTheCat)
+Minecraft (original model not released yet): https://modrinth.com/resourcepack/buses4mc
+---
+Neoplan N4420/3 Centroliner
+Credits to Sobol3D
+OMSI 2: https://reboot.omsi-webdisk.de/file/8052-neoplan-n44xx-centroliner-pack-unfinished-state/
+---
+Solaris Urbino III 18
+Credits to Sobol3D
+OMSI 2: https://reboot.omsi-webdisk.de/file/13234-solaris-urbino-iii-pack-sobol3d/
+---
+Mercedes-Benz Sprinter W906
+Credits to Sobol3D
+OMSI 2: https://strefa-omsi.pl/Watek-OMSI-2-Mercedes-Benz-W906-Sprinter-S3D-Pack-1-0--30262
+---
+Skoda 14TrM, Skoda 15Tr, Skoda 21Tr
+Credits to Oleg Faktor
+Trainz: https://vk.com/of_workshop_public
+---
+Solaris Trollino 12 I Gen
+Credits to Mrcreativschik Mrlowyaw, RuMTR Development
+Minecraft: https://modrinth.com/resourcepack/solaris-transport-pack-i-ii-gen/
+---
+Hess lighTram BGGT-N2C
+Credits to Oleg Faktor, Mrcreativschik Mrlowyaw
+Faktor (original model not released yet): https://vk.com/of_workshop_public
+---
+mBus Redux, nbt1248, 2026.
+---
+Last edited: 15.04.2026 16:33

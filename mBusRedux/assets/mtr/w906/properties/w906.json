@@ -1,0 +1,306 @@
+{
+	"parts": [
+		{
+			"names": [
+				"kuzov"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+    	{
+			"names": [
+				"interior"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR"
+		},
+		
+    	{
+			"names": [
+				"intdisplay"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"display"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"nomera"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"fary"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "LIGHTS"
+		},
+		{
+			"names": [
+				"faryzad"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"farystop"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"povr"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"povl"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"intlight"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "LIGHTS"
+		},
+        {
+			"names": [
+				"doorlight"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "LIGHTS"
+		},
+		{
+			"names": [
+				"glass"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT"
+		},
+		{
+			"names": [
+				"intglass"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT"
+		},
+        {
+			"names": [
+				"wheelfl"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"wheelfr"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"wheels"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"door"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"doorglass"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"dooropen"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"doorglassopen"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"display"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.4,
+			"displayYPadding": 0.4,
+			"displayColor": "FF9900",
+			"displayOptions": [
+				"ALIGN_CENTER",
+				"CYCLE_LANGUAGES"
+			],
+			"displayType": "DESTINATION",
+			"displayDefaultText": "W906"
+		},
+		{
+			"names": [
+				"display2"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.4,
+			"displayYPadding": 0.4,
+			"displayColor": "FF9900",
+			"displayOptions": [
+				"ALIGN_CENTER",
+				"CYCLE_LANGUAGES"
+			],
+			"displayType": "DESTINATION",
+			"displayDefaultText": "W906"
+		},
+		{
+			"names": [
+				"routedisplay"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.4,
+			"displayYPadding": 0.4,
+			"displayColor": "FF9900",
+			"displayOptions": [
+				"ALIGN_CENTER",
+				"CYCLE_LANGUAGES"
+			],
+			"displayType": "ROUTE_NUMBER",
+			"displayDefaultText": "000"
+		},
+		{
+			"names": [
+				"routedisplay2"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.4,
+			"displayYPadding": 0.4,
+			"displayColor": "FF9900",
+			"displayOptions": [
+				"ALIGN_CENTER",
+				"CYCLE_LANGUAGES"
+			],
+			"displayType": "ROUTE_NUMBER",
+			"displayDefaultText": "000"
+		},
+		{
+			"names": [
+				"routedisplay3"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.4,
+			"displayYPadding": 0.4,
+			"displayColor": "FF9900",
+			"displayOptions": [
+				"ALIGN_CENTER",
+				"CYCLE_LANGUAGES"
+			],
+			"displayType": "ROUTE_NUMBER",
+			"displayDefaultText": "000"
+		},
+		{
+			"names": [
+				"nextdisplay"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.2,
+			"displayYPadding": 0.2,
+			"displayColor": "FF002A",
+			"displayOptions": [
+				"ALIGN_CENTER",
+				"CYCLE_LANGUAGES"
+			],
+			"displayType": "NEXT_STATION",
+			"displayDefaultText": "W906"
+		}
+    ]
+  }

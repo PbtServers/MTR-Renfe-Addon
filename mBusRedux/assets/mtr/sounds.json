@@ -1,0 +1,65 @@
+{
+    "vdl_citea_loop": {
+        "sounds": [
+            {
+                "name": "mtr:vdl_citea/loop",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "vdl_citea_point": {
+        "sounds": [
+            {
+                "name": "mtr:vdl_citea/point",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "vdl_citea_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:vdl_citea/dooropn",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "vdl_citea_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:vdl_citea/doorcls",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "vdl_citea_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:vdl_citea/motor0",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "vdl_citea_run": {
+        "sounds": [
+            {
+                "name": "mtr:vdl_citea/run",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "vdl_citea_rub": {
+        "sounds": [
+            {
+                "name": "mtr:vdl_citea/rub",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    }
+}

@@ -1,0 +1,502 @@
+{
+	"parts": [
+		{
+			"names": [
+				"kuzov"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"garmoha"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"shtangi"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"FLOOR"
+			],
+      "positionDefinitions": [
+				"display"
+			],
+			"renderStage": "EXTERIOR",
+			"type":"FLOOR"
+		},
+		{
+			"names": [
+				"DOORWAY"
+			],
+      "positionDefinitions": [
+				"display"
+			],
+			"renderStage": "EXTERIOR",
+			"type":"DOORWAY"
+		},
+		{
+			"names": [
+				"tablo"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+    	{
+			"names": [
+				"interior"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR"
+		},
+    	{
+			"names": [
+				"intgarmoha"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"glass"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT"
+		},
+        {
+			"names": [
+				"wheelfl"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"wheelfr"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"wheelsm"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"wheelsr"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"fary"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "LIGHTS"
+		},
+        {
+			"names": [
+				"povl"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"povr"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"faryzad"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"intlight"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "LIGHTS"
+		},
+		{
+			"names": [
+				"door1"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+        },
+		{
+			"names": [
+				"door2"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"door3"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"door4"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"door5"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"door6"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"door7"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"door8"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"doorglass1"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT"
+        },
+		{
+			"names": [
+				"doorglass2"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"doorglass3"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"doorglass4"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"doorglass5"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"doorglass6"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"doorglass7"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"doorglass8"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"door2open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"door3open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"door4open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"door5open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"door6open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"door7open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"door8open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"doorglass2open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"doorglass3open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"doorglass4open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"doorglass5open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"doorglass6open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"doorglass7open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"doorglass8open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"display"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.1,
+			"displayYPadding": 0.1,
+			"displayColor": "FF9900",
+			"displayOptions": [
+				"ALIGN_CENTER",
+				"CYCLE_LANGUAGES"
+			],
+			"displayType": "DESTINATION",
+			"displayDefaultText": "URBINO 18"
+		},
+		{
+			"names": [
+				"routedisplay"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.1,
+			"displayYPadding": 0.1,
+			"displayColor": "FF9900",
+			"displayOptions": [
+				"ALIGN_CENTER",
+				"CYCLE_LANGUAGES"
+			],
+			"displayType": "ROUTE_NUMBER",
+			"displayDefaultText": "000"
+		}
+    ]
+  }

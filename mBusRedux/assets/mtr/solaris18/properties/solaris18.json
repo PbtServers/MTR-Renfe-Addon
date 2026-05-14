@@ -1,0 +1,406 @@
+{
+	"parts": [
+		{
+			"names": [
+				"kuzov"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"garmoha"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"garmoha"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+    	{
+			"names": [
+				"interior"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR"
+		},
+    	{
+			"names": [
+				"intgarmoha"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"glass"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT"
+		},
+        {
+			"names": [
+				"wheelfl"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"wheelfr"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"wheels"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"fary"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "LIGHTS"
+		},
+        {
+			"names": [
+				"povl"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"povr"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"faryzad"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"intlight"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "LIGHTS"
+		},
+		{
+			"names": [
+				"dm1"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"dm2"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"dm3"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"dm4"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"door1"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"door2"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"door3"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"door4"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"doorglass1"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"doorglass2"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"doorglass3"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"doorglass4"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"dm1open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"dm2open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"dm3open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"dm4open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"door1open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"door2open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"door3open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"door4open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"doorglass1open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"doorglass2open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"doorglass3open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"doorglass4open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"display"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.1,
+			"displayYPadding": 0.1,
+			"displayColor": "FF9900",
+			"displayOptions": [
+				"ALIGN_CENTER",
+				"CYCLE_LANGUAGES"
+			],
+			"displayType": "DESTINATION",
+			"displayDefaultText": "URBINO 18"
+		},
+		{
+			"names": [
+				"routedisplay"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.1,
+			"displayYPadding": 0.1,
+			"displayColor": "FF9900",
+			"displayOptions": [
+				"ALIGN_CENTER",
+				"CYCLE_LANGUAGES"
+			],
+			"displayType": "ROUTE_NUMBER",
+			"displayDefaultText": "000"
+		}
+    ]
+  }

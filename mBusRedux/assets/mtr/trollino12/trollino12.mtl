@@ -1,0 +1,5670 @@
+# Blender 4.2.0 MTL File: 'trollino12.blend'
+# www.blender.org
+
+newmtl 001.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd mk3.png
+
+newmtl 01-Autosan.png-344.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd 01-autosan.png
+
+newmtl 01-Autosan.png-357.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd 01-autosan.png
+
+newmtl 06.png-306.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd 06.png
+map_Ke 06_n.png
+
+newmtl 06.png-309.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd 06.png
+
+newmtl Bez_nazwy.png-349.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bez_nazwy.png
+
+newmtl Bode_stare.png-463.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bode_stare.png
+
+newmtl Bode_stare.png-463.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bode_stare.png
+
+newmtl Bode_stare.png-467.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bode_stare.png
+
+newmtl Bode_stare.png-467.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bode_stare.png
+
+newmtl Bode_stare.png-472.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bode_stare.png
+
+newmtl Bode_stare.png-472.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bode_stare.png
+
+newmtl Bode_stare.png-477.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bode_stare.png
+
+newmtl Bode_stare.png-477.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bode_stare.png
+
+newmtl Bode_stare.png-482.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bode_stare.png
+
+newmtl Bode_stare.png-482.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bode_stare.png
+
+newmtl Bode_stare.png-487.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bode_stare.png
+
+newmtl Bode_stare.png-487.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bode_stare.png
+
+newmtl Czerwony.png-312.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd czerwony.png
+
+newmtl DM_muenzen.bmp-300.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd dm_muenzen.png
+
+newmtl DM_muenzen.bmp-301.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd dm_muenzen.png
+
+newmtl DM_muenzen.bmp-302.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd dm_muenzen.png
+
+newmtl DM_muenzen.bmp-303.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd dm_muenzen.png
+
+newmtl DM_muenzen.bmp-304.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd dm_muenzen.png
+
+newmtl DM_muenzen.bmp-305.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd dm_muenzen.png
+
+newmtl DRL.tga-29.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drl_n.png
+
+newmtl DisplayText.tga-143.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Drzwi_stare_porecz.png-461.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwi_stare_porecz.png
+
+newmtl Drzwi_stare_porecz.png-461.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwi_stare_porecz.png
+
+newmtl Drzwi_stare_porecz.png-468.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwi_stare_porecz.png
+
+newmtl Drzwi_stare_porecz.png-468.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwi_stare_porecz.png
+
+newmtl Drzwi_stare_porecz.png-473.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwi_stare_porecz.png
+
+newmtl Drzwi_stare_porecz.png-473.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwi_stare_porecz.png
+
+newmtl Drzwi_stare_porecz.png-476.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwi_stare_porecz.png
+
+newmtl Drzwi_stare_porecz.png-476.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwi_stare_porecz.png
+
+newmtl Drzwi_stare_porecz.png-483.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwi_stare_porecz.png
+
+newmtl Drzwi_stare_porecz.png-483.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwi_stare_porecz.png
+
+newmtl Drzwi_stare_porecz.png-488.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwi_stare_porecz.png
+
+newmtl Drzwi_stare_porecz.png-488.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwi_stare_porecz.png
+
+newmtl Drzwibodestare_2D_View.png-462.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwibodestare_2d_view.png
+
+newmtl Drzwibodestare_2D_View.png-462.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwibodestare_2d_view.png
+
+newmtl Drzwibodestare_2D_View.png-466.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwibodestare_2d_view.png
+
+newmtl Drzwibodestare_2D_View.png-466.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwibodestare_2d_view.png
+
+newmtl Drzwibodestare_2D_View.png-471.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwibodestare_2d_view.png
+
+newmtl Drzwibodestare_2D_View.png-471.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwibodestare_2d_view.png
+
+newmtl Drzwibodestare_2D_View.png-478.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwibodestare_2d_view.png
+
+newmtl Drzwibodestare_2D_View.png-478.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwibodestare_2d_view.png
+
+newmtl Drzwibodestare_2D_View.png-481.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwibodestare_2d_view.png
+
+newmtl Drzwibodestare_2D_View.png-481.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwibodestare_2d_view.png
+
+newmtl Drzwibodestare_2D_View.png-486.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwibodestare_2d_view.png
+
+newmtl Drzwibodestare_2D_View.png-486.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd drzwibodestare_2d_view.png
+
+newmtl ETL.png-240.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd etl.png
+
+newmtl ETL_Szyba.dds-242.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd etl_szyba.png
+map_d etl_szyba.png
+
+newmtl KF3000.tga-256.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.022500 0.022500 0.022500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd kf3000.png
+
+newmtl KF3000.tga-257.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.022500 0.022500 0.022500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd kf3000.png
+
+newmtl KF3000.tga-258.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.022500 0.022500 0.022500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd kf3000.png
+
+newmtl KF3000.tga-261.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.022500 0.022500 0.022500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd kf3000.png
+
+newmtl KF3000.tga-262.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.022500 0.022500 0.022500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd kf3000.png
+
+newmtl KF3000.tga-263.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.022500 0.022500 0.022500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd kf3000.png
+
+newmtl KF3000.tga-264.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.022500 0.022500 0.022500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd kf3000.png
+
+newmtl KF3000.tga-265.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.022500 0.022500 0.022500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd kf3000.png
+
+newmtl KF3000.tga-266.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.022500 0.022500 0.022500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd kf3000.png
+
+newmtl KF3000.tga-267.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.022500 0.022500 0.022500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd kf3000.png
+
+newmtl KP.png-17.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd kp.png
+
+newmtl KP.png-24.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd kp.png
+
+newmtl KT.png-26.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd kt.png
+
+newmtl KT.png-28.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd kt.png
+
+newmtl Kabina_1999.png-102.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd kabina_1999.png
+
+newmtl Klapa_przednia.png-103.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd klapa_przednia.png
+
+newmtl Ktozgasicswiecetakbedzieumial.png-308.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ktozgasicswiecetakbedzieumial.png
+
+newmtl Linienliste_ANX.bmp-90.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd linienliste_anx.png
+
+newmtl MOKI_Kolumna.png-104.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd moki_kolumna.png
+
+newmtl Material.015_2D_View.jpg-136.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd torpeda.png
+
+newmtl Material.019_2D_View.png-105.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd cabina.png
+
+newmtl Mikrofon.png-318.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd mikrofon.png
+
+newmtl P_Moki_Czarny.png-170.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-172.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-174.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-176.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-178.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-180.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-186.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-188.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-190.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-192.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-194.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-196.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-202.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-204.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-206.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-208.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-210.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-212.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-214.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czarny.png-216.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czarny.png
+
+newmtl P_Moki_Czerwony.png-182.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czerwony.png
+
+newmtl P_Moki_Czerwony.png-184.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czerwony.png
+
+newmtl P_Moki_Czerwony.png-198.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czerwony.png
+
+newmtl P_Moki_Czerwony.png-200.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czerwony.png
+
+newmtl P_Moki_Czerwony.png-218.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czerwony.png
+
+newmtl P_Moki_Czerwony.png-220.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czerwony.png
+
+newmtl P_Moki_Czerwony.png-222.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czerwony.png
+
+newmtl P_Moki_Czerwony.png-224.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czerwony.png
+
+newmtl P_Moki_Czerwony.png-226.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czerwony.png
+
+newmtl P_Moki_Czerwony.png-228.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_czerwony.png
+
+newmtl P_Moki_Zolty.png-166.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_zolty.png
+
+newmtl P_Moki_Zolty.png-168.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_moki_zolty.png
+
+newmtl Pixel_TMLXTL.png-241.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd pixel_tmlxtl.png
+
+newmtl Poreczk_Kabina.png-101.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd poreczk_kabina.png
+
+newmtl Ramki.png-358.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd ramki.png
+
+newmtl Reflektory_2D_View.png-51.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd reflektory_2d_view.png
+
+newmtl Reklamy.tga-342.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd reklamy.png
+
+newmtl SRG_3000.tga-270.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.422500 0.422500 0.422500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-271.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+map_Ke srg_3000_lm.png
+
+newmtl SRG_3000.tga-272.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+map_Ke srg_3000_lm.png
+
+newmtl SRG_3000.tga-273.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+map_Ke srg_3000_lm.png
+
+newmtl SRG_3000.tga-274.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+map_Ke srg_3000_lm.png
+
+newmtl SRG_3000.tga-275.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-276.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-277.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-278.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-279.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-280.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-281.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-282.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-283.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-284.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-285.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-286.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-287.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-288.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-289.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-290.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-291.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-292.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-293.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-294.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-295.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_3000.tga-296.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_3000.png
+
+newmtl SRG_Unter.dds-259.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd srg_unter.png
+
+newmtl SU12_II_Main_3door.dds-45.010
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd su12_ii_main_3door.png
+map_Ks su12_ii_main_mask_3door.png
+map_Bump -bm 0.500000 su12_ii_main_mask_3door.png
+
+newmtl SU12_II_Main_3door.dds-45.011
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd su12_ii_main_3door.png
+map_Ks su12_ii_main_mask_3door.png
+map_Bump -bm 0.500000 su12_ii_main_mask_3door.png
+
+newmtl SU12_II_Main_3door.dds-50.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd su12_ii_main_3door.png
+map_Ks su12_ii_main_mask_3door.png
+map_Bump -bm 0.500000 su12_ii_main_mask_3door.png
+
+newmtl SU12_II_Main_3door.dds-52.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd su12_ii_main_3door.png
+map_Ks su12_ii_main_mask_3door.png
+map_Bump -bm 0.500000 su12_ii_main_mask_3door.png
+
+newmtl SU12_II_Main_3door.dds-57.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd su12_ii_main_3door.png
+map_Ks su12_ii_main_mask_3door.png
+map_Bump -bm 0.500000 su12_ii_main_mask_3door.png
+
+newmtl SU12_II_Stangen.dds-538.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su15_ii_stangen.png
+
+newmtl SU12_II_Stangen.dds-541.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su15_ii_stangen.png
+
+newmtl SU12_II_glas_3door.dds-664.004
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_ii_glas_3door.png
+map_d su12_ii_glas_3door.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_II_glas_int_3door.dds-72.004
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_ii_glas_int_3door.png
+map_d su12_ii_glas_int_3door.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_II_int2_3door.dds-343.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su12_ii_int2_3door.png
+
+newmtl SU12_II_int2_3door.dds-375.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su12_ii_int2_3door.png
+
+newmtl SU12_II_int2_3door.dds-376.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su12_ii_int2_3door.png
+
+newmtl SU12_II_int2_3door.dds-377.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su12_ii_int2_3door.png
+
+newmtl SU12_II_int2_3door.dds-43.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su12_ii_int2_3door.png
+
+newmtl SU12_II_int2_3door.dds-44.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su12_ii_int2_3door.png
+
+newmtl SU12_II_int2_3door.dds-45.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su12_ii_int2_3door.png
+
+newmtl SU12_II_int2_3door.dds-5.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su12_ii_int2_3door.png
+
+newmtl SU12_II_int_3door.dds-350.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su12_ii_int_3door.png
+
+newmtl SU12_I_Szyby.dds-332.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-389.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-391.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-393.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-395.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-399.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-401.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-403.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-491.001
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-491.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-493.001
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-493.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-495.001
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-495.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-497.001
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-497.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-499.001
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-499.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-501.001
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-501.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-503.001
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-503.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-505.001
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-505.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-507.001
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-507.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-509.001
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-509.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-511.001
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-511.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-513.001
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-513.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-564.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-566.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-568.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-574.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-580.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-584.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-586.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-588.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-590.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-594.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-596.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-598.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-74.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU12_I_Szyby.dds-76.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su12_i_szyby.png
+map_d su12_i_szyby.png
+map_Bump -bm 2.000000 su12_ii_main_mask_3door.png
+
+newmtl SU15_II_Stangen.dds-329.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su15_ii_stangen.png
+
+newmtl SU15_II_Stangen.dds-404.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su15_ii_stangen.png
+
+newmtl SU15_II_Stangen.dds-407.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su15_ii_stangen.png
+
+newmtl SU15_II_int2.dds-347.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su15_ii_int2.png
+
+newmtl SU15_II_int2.dds-351.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su15_ii_int2.png
+
+newmtl SU15_II_int2.dds-380.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su15_ii_int2.png
+
+newmtl SU15_II_int2.dds-381.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su15_ii_int2.png
+
+newmtl SU15_II_int2.dds-382.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su15_ii_int2.png
+
+newmtl SU15_II_int2.dds-383.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su15_ii_int2.png
+
+newmtl SU15_II_int2.dds-385.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su15_ii_int2.png
+
+newmtl SU15_II_int2.dds-386.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su15_ii_int2.png
+
+newmtl SU15_II_int2.dds-387.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su15_ii_int2.png
+
+newmtl SU18_II_V_int.dds-67.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su18_ii_v_int.png
+
+newmtl SU18_II_glas_Dachluke.dds-556.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su18_ii_glas_dachluke.png
+map_d su18_ii_glas_dachluke.png
+
+newmtl SU18_II_glas_Dachluke.dds-557.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su18_ii_glas_dachluke.png
+map_d su18_ii_glas_dachluke.png
+
+newmtl SU18_II_glas_Dachluke.dds-559.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su18_ii_glas_dachluke.png
+map_d su18_ii_glas_dachluke.png
+
+newmtl SU18_II_glas_Dachluke.dds-560.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su18_ii_glas_dachluke.png
+map_d su18_ii_glas_dachluke.png
+
+newmtl SU18_II_glas_Dachluke.dds-562.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su18_ii_glas_dachluke.png
+map_d su18_ii_glas_dachluke.png
+
+newmtl SU18_II_glas_Dachluke.dds-563.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su18_ii_glas_dachluke.png
+map_d su18_ii_glas_dachluke.png
+
+newmtl SU18_II_glas_misc.dds-163.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su18_ii_glas_misc.png
+map_d su18_ii_glas_misc.png
+
+newmtl SU9_I_Karoseria.dds-346.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su9_i_karoseria.png
+
+newmtl SU_II_Besen.dds-520.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_besen.png
+map_d su_ii_besen.png
+
+newmtl SU_II_Besen.dds-63.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_besen.png
+map_d su_ii_besen.png
+
+newmtl SU_II_DIN.dds-116.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_din.png
+map_Ke su_ii_din_lm.png
+
+newmtl SU_II_DIN.dds-121.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_din.png
+map_Ke su_ii_din_lm.png
+
+newmtl SU_II_DIN.dds-122.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_din.png
+map_Ke su_ii_din_lm.png
+
+newmtl SU_II_DIN.dds-123.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_din.png
+map_Ke su_ii_din_lm.png
+
+newmtl SU_II_Dachluke.dds-374.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-531.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-532.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-533.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-534.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-535.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-536.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-537.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-538.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-539.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-540.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-541.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-542.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-543.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-544.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-545.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-546.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-547.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-548.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-549.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-550.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-551.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-552.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-553.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-554.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-555.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-558.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dachluke.dds-561.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dachluke.png
+
+newmtl SU_II_Dashboard.dds-106.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard.png
+
+newmtl SU_II_Dashboard_Moki.dds-137.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki.png
+
+newmtl SU_II_Dashboard_Moki.dds-233.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki.png
+
+newmtl SU_II_Dashboard_Moki_Highline.dds-138.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki_highline.png
+map_Ks su_ii_dashboard_moki_highline.png
+map_Ke su_ii_dashboard_moki_highline_lm.png
+
+newmtl SU_II_Dashboard_Moki_Highline.dds-144.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki_highline.png
+map_Ke su_ii_dashboard_moki_highline_lm.png
+
+newmtl SU_II_Dashboard_Moki_Highline.dds-145.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki_highline.png
+map_Ke su_ii_dashboard_moki_highline_lm.png
+
+newmtl SU_II_Dashboard_Moki_Highline.dds-146.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki_highline.png
+map_Ke su_ii_dashboard_moki_highline_lm.png
+
+newmtl SU_II_Dashboard_Moki_Highline.dds-147.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki_highline.png
+map_Ke su_ii_dashboard_moki_highline_lm.png
+
+newmtl SU_II_Dashboard_Moki_Highline.dds-148.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki_highline.png
+map_Ke su_ii_dashboard_moki_highline_lm.png
+
+newmtl SU_II_Dashboard_Moki_Highline.dds-149.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki_highline.png
+map_Ke su_ii_dashboard_moki_highline_lm.png
+
+newmtl SU_II_Dashboard_Moki_Highline.dds-150.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki_highline.png
+map_Ke su_ii_dashboard_moki_highline_lm.png
+
+newmtl SU_II_Dashboard_Moki_Highline.dds-151.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki_highline.png
+map_Ke su_ii_dashboard_moki_highline_lm.png
+
+newmtl SU_II_Dashboard_Moki_Highline.dds-152.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki_highline.png
+map_Ks su_ii_dashboard_moki_highline.png
+map_Ke su_ii_dashboard_moki_highline_lm.png
+
+newmtl SU_II_Dashboard_Moki_Highline.dds-153.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki_highline.png
+map_Ks su_ii_dashboard_moki_highline.png
+map_Ke su_ii_dashboard_moki_highline_lm.png
+
+newmtl SU_II_Dashboard_Moki_Highline.dds-154.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki_highline.png
+map_Ks su_ii_dashboard_moki_highline.png
+map_Ke su_ii_dashboard_moki_highline_lm.png
+
+newmtl SU_II_Dashboard_Moki_Highline.dds-155.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_moki_highline.png
+map_Ks su_ii_dashboard_moki_highline.png
+map_Ke su_ii_dashboard_moki_highline_lm.png
+
+newmtl SU_II_Dashboard_buttons_2.dds-133.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_buttons_2.png
+
+newmtl SU_II_Dashboard_buttons_2.dds-324.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_buttons_2.png
+
+newmtl SU_II_Dashboard_buttons_2.dds-325.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_buttons_2.png
+
+newmtl SU_II_Dashboard_buttons_2.dds-326.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dashboard_buttons_2.png
+
+newmtl SU_II_Deckenbeleuchtung.dds-368.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_deckenbeleuchtung.png
+map_Ke su_ii_deckenbeleuchtung_lm.png
+
+newmtl SU_II_Deckenbeleuchtung.dds-369.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_deckenbeleuchtung.png
+map_Ke su_ii_deckenbeleuchtung_lm.png
+
+newmtl SU_II_Deckenbeleuchtung_Base.dds-367.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_deckenbeleuchtung_base.png
+
+newmtl SU_II_Dummy.dds-117.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dummy.png
+
+newmtl SU_II_Dummy.dds-118.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dummy.png
+
+newmtl SU_II_Dummy.dds-119.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dummy.png
+
+newmtl SU_II_Dummy.dds-120.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dummy.png
+
+newmtl SU_II_Dummy.dds-124.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dummy.png
+
+newmtl SU_II_Dummy.dds-125.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dummy.png
+
+newmtl SU_II_Dummy.dds-359.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_dummy.png
+
+newmtl SU_II_Entwerter.dds-525.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_entwerter.png
+
+newmtl SU_II_Fahrersitz.dds-328.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_fahrersitz.png
+
+newmtl SU_II_Griff.dds-331.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_griff.png
+
+newmtl SU_II_Griff.dds-451.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_griff.png
+
+newmtl SU_II_Kennzeichen.dds-53.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_kennzeichen.png
+
+newmtl SU_II_Kennzeichen.dds-60.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_kennzeichen.png
+
+newmtl SU_II_Lightframes.dds-54.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lightframes.png
+
+newmtl SU_II_Lightframes.dds-56.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lightframes.png
+
+newmtl SU_II_Logo.dds-362.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_logo.png
+
+newmtl SU_II_MOKI_Buttons.dds-139.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-164.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-165.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-167.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-169.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-171.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-173.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-175.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-177.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-179.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-181.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-183.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-185.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-187.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-189.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-191.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-193.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-195.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-197.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-199.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-201.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-203.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-205.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-207.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-209.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-211.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-213.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-215.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-217.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-219.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-221.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-223.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-225.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-227.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ks su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-229.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-230.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-231.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+map_Ke su_ii_moki_buttons_lm.png
+
+newmtl SU_II_MOKI_Buttons.dds-234.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_moki_buttons.png
+
+newmtl SU_II_Nothammer.dds-1.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_nothammer.png
+
+newmtl SU_II_Rollo.dds-86.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_rollo.png
+
+newmtl SU_II_Rollo.dds-88.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_rollo.png
+
+newmtl SU_II_Sitze.dds-352.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_sitze.png
+
+newmtl SU_II_Tuerbeleuchtung.dds-113.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd su_ii_tuerbeleuchtung.png
+map_Ke su_ii_tuerbeleuchtung_lm.png
+
+newmtl SU_II_Tuerbeleuchtung.dds-370.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_tuerbeleuchtung.png
+map_Ke su_ii_tuerbeleuchtung_lm.png
+
+newmtl SU_II_Tuerbeleuchtung.dds-371.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_tuerbeleuchtung.png
+map_Ke su_ii_tuerbeleuchtung_lm.png
+
+newmtl SU_II_Tuerbeleuchtung.dds-372.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_tuerbeleuchtung.png
+map_Ke su_ii_tuerbeleuchtung_lm.png
+
+newmtl SU_II_Tuerbeleuchtung.dds-373.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_tuerbeleuchtung.png
+map_Ke su_ii_tuerbeleuchtung_lm.png
+
+newmtl SU_II_VDV_Display.dds-156.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_vdv_display.png
+map_d su_ii_vdv_display.png
+
+newmtl SU_II_VDV_Display.dds-157.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_vdv_display.png
+map_d su_ii_vdv_display.png
+
+newmtl SU_II_VDV_Display.dds-158.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_vdv_display.png
+map_d su_ii_vdv_display.png
+
+newmtl SU_II_VDV_Display.dds-159.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_vdv_display.png
+map_d su_ii_vdv_display.png
+
+newmtl SU_II_VDV_Display.dds-160.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_vdv_display.png
+map_d su_ii_vdv_display.png
+
+newmtl SU_II_VDV_Display.dds-161.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_vdv_display.png
+map_d su_ii_vdv_display.png
+
+newmtl SU_II_VDV_Display.dds-162.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_vdv_display.png
+map_d su_ii_vdv_display.png
+
+newmtl SU_II_bubbles.dds-517.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_bubbles.png
+map_d su_ii_bubbles.png
+
+newmtl SU_II_bubbles.dds-519.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_bubbles.png
+map_d su_ii_bubbles.png
+
+newmtl SU_II_bubbles.dds-622.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_bubbles.png
+map_d su_ii_bubbles.png
+
+newmtl SU_II_bubbles.dds-74.007
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_bubbles.png
+map_d su_ii_bubbles.png
+
+newmtl SU_II_bubbles.dds-74.008
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_bubbles.png
+map_d su_ii_bubbles.png
+
+newmtl SU_II_bubbles.dds-78.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_bubbles.png
+map_d su_ii_bubbles.png
+
+newmtl SU_II_bubbles.dds-80.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_bubbles.png
+map_d su_ii_bubbles.png
+
+newmtl SU_II_doors.dds-460.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-460.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-464.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-464.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-465.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-465.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-469.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-469.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-470.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-470.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-474.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-474.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-475.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-475.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-479.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-479.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-480.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-480.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-484.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-484.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-485.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-485.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-489.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_doors.dds-489.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_doors.png
+
+newmtl SU_II_drivercabin.dds-107.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_drivercabin.png
+
+newmtl SU_II_drivercabin.dds-134.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_drivercabin.png
+
+newmtl SU_II_drivercabin.dds-135.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_drivercabin.png
+
+newmtl SU_II_drivercabin_2.dds-108.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_drivercabin_2.png
+
+newmtl SU_II_drivercabin_2.dds-323.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_drivercabin_2.png
+
+newmtl SU_II_drivercabin_2.dds-82.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_drivercabin_2.png
+
+newmtl SU_II_drivercabin_2.dds-83.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_drivercabin_2.png
+
+newmtl SU_II_drivercabin_2.dds-84.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_drivercabin_2.png
+
+newmtl SU_II_drivercabin_2.dds-85.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_drivercabin_2.png
+
+newmtl SU_II_drivercabin_3.dds-109.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_drivercabin_3.png
+
+newmtl SU_II_drivercabin_misc.dds-114.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.450000
+illum 2
+map_Kd su_ii_drivercabin_misc.png
+map_Ke su_ii_lightmap.png
+map_d su_ii_drivercabin_misc.png
+map_Bump -bm 0.500000 su_ii_drivercabin_misc_bump.png
+
+newmtl SU_II_drivercabin_misc.dds-115.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.450000
+illum 2
+map_Kd su_ii_drivercabin_misc.png
+map_Ke su_ii_lightmap.png
+map_d su_ii_drivercabin_misc.png
+map_Bump -bm 0.500000 su_ii_drivercabin_misc_bump.png
+
+newmtl SU_II_fahrertuer.dds-127.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_fahrertuer.png
+
+newmtl SU_II_fahrgastpendel.dds-69.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_fahrgastpendel.png
+
+newmtl SU_II_fahrgastpendel.dds-70.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_fahrgastpendel.png
+
+newmtl SU_II_int_misc.dds-378.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_int_misc.png
+
+newmtl SU_II_int_misc.dds-379.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_int_misc.png
+
+newmtl SU_II_lenksaeule.dds-232.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lenksaeule.png
+
+newmtl SU_II_lenkstockschalter.dds-140.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lenkstockschalter.png
+
+newmtl SU_II_lenkstockschalter.dds-141.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lenkstockschalter.png
+
+newmtl SU_II_lenkstockschalter.dds-142.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lenkstockschalter.png
+
+newmtl SU_II_lights.dds-30.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lights_lm.png
+map_Ke su_ii_lights_lm.png
+
+newmtl SU_II_lights.dds-31.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lights.png
+map_Ke su_ii_lights_lm.png
+
+newmtl SU_II_lights.dds-32.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lights.png
+
+newmtl SU_II_lights.dds-33.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lights.png
+map_Ke su_ii_lights_lm.png
+
+newmtl SU_II_lights.dds-34.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lights.png
+map_Ke su_ii_lights_lm.png
+
+newmtl SU_II_lights.dds-35.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lights.png
+map_Ke su_ii_lights_lm.png
+
+newmtl SU_II_lights.dds-36.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lights.png
+map_Ke su_ii_lights_lm.png
+
+newmtl SU_II_lights.dds-37.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lights.png
+map_Ke su_ii_lights_lm.png
+
+newmtl SU_II_lights.dds-38.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lights.png
+map_Ke su_ii_lights_lm.png
+
+newmtl SU_II_lights.dds-39.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lights.png
+map_Ke su_ii_lights_lm.png
+
+newmtl SU_II_lights.dds-40.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lights.png
+map_Ke su_ii_lights_lm.png
+
+newmtl SU_II_lights.dds-41.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_lights.png
+map_Ke su_ii_lights_lm.png
+
+newmtl SU_II_lights_mask.dds-42.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_lights_mask.png
+map_Ks su_ii_lights_mask.png
+map_d su_ii_lights_mask.png
+map_Bump -bm 1.000000 su_ii_lights_mask.png
+
+newmtl SU_II_pedals.dds-131.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_pedals.png
+
+newmtl SU_II_pedals.dds-132.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_pedals.png
+
+newmtl SU_II_rain.dds-333.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-388.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-390.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-392.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-394.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-398.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-400.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-402.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-490.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-490.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-492.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-492.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-494.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-494.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-496.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-496.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-498.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-498.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-500.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-500.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-502.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-502.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-504.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-504.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-506.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-506.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-508.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-508.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-510.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-510.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-512.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-512.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-565.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-567.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-575.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-576.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-581.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-582.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-583.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-585.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-587.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-589.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-593.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-595.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-597.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-75.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_rain.dds-77.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd su_ii_rain.png
+map_d su_ii_rain.png
+
+newmtl SU_II_trennscheibe.dds-128.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su_ii_trennscheibe.png
+map_d su_ii_trennscheibe.png
+
+newmtl SU_II_trennscheibe.dds-514.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.360000 0.360000 0.360000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su_ii_trennscheibe.png
+map_d su_ii_trennscheibe.png
+
+newmtl SU_II_trennscheibe.dds-516.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd su_ii_trennscheibe.png
+map_d su_ii_trennscheibe.png
+
+newmtl SU_II_wipers_2.dds-527.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_wipers_2.png
+
+newmtl SU_II_wipers_2.dds-528.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_wipers_2.png
+
+newmtl SU_II_wipers_2.dds-529.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_wipers_2.png
+
+newmtl SU_II_wipers_2.dds-530.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_wipers_2.png
+
+newmtl SU_II_wischerblende.dds-61.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_ii_wischerblende.png
+
+newmtl SU_I_Boczny.png-353.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_i_boczny.png
+
+newmtl SU_I_Boczny_s.png-354.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_i_boczny_s.png
+
+newmtl SU_I_Drzwi.png-126.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_i_drzwi.png
+
+newmtl SU_I_Kabina.png-110.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_i_kabina.png
+
+newmtl SU_I_Kabina_bok.dds-111.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_i_kabina_bok.png
+
+newmtl SU_I_Kierownica_Bova.png-239.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd su_i_kierownica_bova.png
+
+newmtl SU_I_Kierownica_Nero.png-238.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd su_i_kierownica_nero.png
+
+newmtl SU_I_Lizak.png-71.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_i_lizak.png
+
+newmtl SU_I_Lustra.dds-64.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_i_lustra.png
+
+newmtl SU_I_Piasta.png-15.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_i_piasta.png
+
+newmtl SU_I_Piasta.png-16.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd su_i_piasta.png
+map_Bump -bm 0.002000 bump.png
+
+newmtl SU_I_Piasta.png-19.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_i_piasta.png
+
+newmtl SU_I_Piasta.png-20.004
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd su_i_piasta.png
+map_Bump -bm 0.002000 bump.png
+
+newmtl SU_I_Piasta.png-21.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_i_piasta.png
+
+newmtl SU_I_Piasta.png-22.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_i_piasta.png
+
+newmtl SU_I_Szyba_kierowcy.png-345.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_i_szyba_kierowcy.png
+
+newmtl SU_I_Szyba_kierowcy.png-81.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_i_szyba_kierowcy.png
+
+newmtl SU_I_Wywietrznik_silnik.png-46.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd su_i_wywietrznik_silnik.png
+
+newmtl Schedule.bmp-319.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd schedule.png
+
+newmtl Szafka.png-129.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd szafka.png
+
+newmtl Szafka.png-130.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd szafka.png
+
+newmtl Szafka.png-334.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd szafka.png
+
+newmtl Szafka.png-335.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd szafka.png
+
+newmtl Szafka.png-355.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd szafka.png
+
+newmtl Szybka_Ramki.tga-515.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.160000 0.160000 0.160000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd szybka_ramki.png
+map_d szybka_ramki.png
+
+newmtl Tapicerka_Urbino1.png-330.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tapicerka_urbino1.png
+
+newmtl Tapicerka_Urbino1.png-409.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tapicerka_urbino1.png
+
+newmtl Tapicerka_Urbino1.png-411.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tapicerka_urbino1.png
+
+newmtl Tex2_N3.png-112.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tex2_n3.png
+
+newmtl U12_Podloga.png-348.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd u12_podloga.png
+
+newmtl U12_Sufit.png-356.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd u12_sufit.png
+
+newmtl U_I_Fotel.png-408.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd u_i_fotel.png
+
+newmtl U_I_Fotel.png-410.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd u_i_fotel.png
+
+newmtl W-B.tga-573.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd w-b.png
+map_d w-b.png
+
+newmtl Wywietrznik.png-55.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd wywietrznik.png
+
+newmtl black_2.m.onetex.005
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.007843 0.007843 0.007843
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl bova.png-236.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bova.png
+
+newmtl button.dds-405.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd button.png
+map_Ke button_n.png
+
+newmtl button.dds-406.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd button.png
+map_Ke button_n.png
+
+newmtl detali.m.onetex.005
+Ns 3.999998
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl digits.dds-313.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd digits.png
+map_Ke digitsnm.png
+map_d digits.png
+
+newmtl digits.dds-314.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd digits.png
+map_Ke digitsnm.png
+map_d digits.png
+
+newmtl digits.dds-315.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd digits.png
+map_Ke digitsnm.png
+map_d digits.png
+
+newmtl digits.dds-316.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd digits.png
+map_Ke digitsnm.png
+map_d digits.png
+
+newmtl digits.dds-317.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd digits.png
+map_Ke digitsnm.png
+map_d digits.png
+
+newmtl gasnica.png-307.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd gasnica.png
+
+newmtl isri.png-327.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd isri.png
+
+newmtl m100.m.onetex.005
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.675781 0.520020 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl m200.m.onetex.005
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.705566 0.578613 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl m4.m.onetex.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl m5.m.onetex.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl m6.m.onetex.005
+Ns 3.999998
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl material.m.onetex.009
+Ns 8.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.196078 0.196078 0.196078
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl material.m.onetex.010
+Ns 8.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl material11.m.onetex.005
+Ns 8.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.741211 0.579590 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl material_112.m.onetex.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.764706 0.764706 0.764706
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl metal.png-49.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd metal.png
+
+newmtl podkladka_czarne.dds-320.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd podkladka_czarne.png
+
+newmtl podkladka_metal.dds-321.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd podkladka_metal.png
+
+newmtl pudelko.png-310.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.002500 0.002500 0.002500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd pudelko.png
+map_d pudelko.png
+
+newmtl pudelko.png-311.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.002500 0.002500 0.002500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd pudelko.png
+map_d pudelko.png
+
+newmtl reflexion0.bmp-66.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd reflexion0.png
+
+newmtl reflexion2.bmp-65.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd reflexion2.png
+
+newmtl reflexion3.bmp-68.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd reflexion3.png
+
+newmtl reifen.dds-18.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd reifen.png
+
+newmtl reifen.dds-23.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd reifen.png
+
+newmtl reifen.dds-25.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd reifen.png
+
+newmtl reifen.dds-27.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd reifen.png
+
+newmtl tex1.png-322.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tex1.png
+
+newmtl tex4.png-91.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd tex4.png
+map_d tex4.png
+
+newmtl tex4.png-92.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd tex4.png
+map_d tex4.png
+
+newmtl tex4.png-93.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tex4.png
+map_Ke tex4_n.png
+
+newmtl tex4.png-94.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tex4.png
+
+newmtl tex5.png-260.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tex5.png
+
+newmtl textfeld.tga-100.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd textfeld.png
+map_d textfeld.png
+
+newmtl textfeld.tga-268.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd textfeld.png
+map_Ke vmatrix_leer_led_lm.png
+map_d textfeld.png
+
+newmtl textfeld.tga-297.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd textfeld.png
+map_Ke vmatrix_leer_led_lm.png
+map_d textfeld.png
+
+newmtl textfeld.tga-298.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd textfeld.png
+map_Ke vmatrix_leer_led_lm.png
+map_d textfeld.png
+
+newmtl textfeld.tga-95.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd textfeld.png
+map_d textfeld.png
+
+newmtl textfeld.tga-96.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd textfeld.png
+map_d textfeld.png
+
+newmtl textfeld.tga-97.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd textfeld.png
+map_d textfeld.png
+
+newmtl textfeld.tga-98.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd textfeld.png
+map_d textfeld.png
+
+newmtl textfeld.tga-99.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd textfeld.png
+map_d textfeld.png
+
+newmtl vdo_dust2.png-269.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.022500 0.022500 0.022500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd vdo_dust2.png
+map_d vdo_dust2.png
+
+newmtl vdo_dust2.png-299.003
+Ns 980.100037
+Ka 1.000000 1.000000 1.000000
+Ks 0.022500 0.022500 0.022500
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd vdo_dust2.png
+map_d vdo_dust2.png
+
+newmtl vpixel_leer.png-363.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd vpixel_leer.png
+
+newmtl vpixel_voll.dds-364.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+illum 1
+map_Kd vpixel_voll.png
+map_Ks vpixel_voll.png
+map_Ke vmatrix_leer_led_lm.png
+map_d vpixel_voll.png

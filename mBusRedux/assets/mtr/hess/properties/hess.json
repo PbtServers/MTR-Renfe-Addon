@@ -1,0 +1,554 @@
+{
+	"parts": [
+		{
+			"names": [
+				"kuzov"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"garmoha"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"roga"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"ropes"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"tablo"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+    	{
+			"names": [
+				"interior"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR"
+		},
+    	{
+			"names": [
+				"tv"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR"
+		},
+    	{
+			"names": [
+				"intgarmoha"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"glass"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT"
+		},
+        {
+			"names": [
+				"wheelsfl"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"wheelsfr"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"wheels"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"fary"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "LIGHTS"
+		},
+        {
+			"names": [
+				"gab"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "LIGHTS"
+		},
+        {
+			"names": [
+				"tum"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "LIGHTS"
+		},
+        {
+			"names": [
+				"povl"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"povr"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"farystop"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"faryzad"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR"
+		},
+        {
+			"names": [
+				"intlight"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "LIGHTS"
+		},
+        {
+			"names": [
+				"cablight"
+			],
+      "positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "LIGHTS"
+		},
+		{
+			"names": [
+				"door1"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"door2"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"door3"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": -8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"door4"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": 8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"door5"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": -8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"door6"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": 8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"door7"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": -8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"door8"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": 8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"door9"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": -8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"door10"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": 8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"doorglass1"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"doorglass2"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_CLOSED"
+        },
+		{
+			"names": [
+				"doorglass3"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": -8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"doorglass4"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": 8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"doorglass5"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": -8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"doorglass6"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": 8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"doorglass7"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": -8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"doorglass8"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": 8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"doorglass9"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": -8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"doorglass10"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": 8,
+			"doorXMultiplier": -1,
+			"doorAnimationType": "PLUG_FAST"
+        },
+		{
+			"names": [
+				"door1open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"door2open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "EXTERIOR",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"doorglass1open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"doorglass2open"
+			],
+			"positionDefinitions": [
+				"ext"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"condition": "DOORS_OPENED"
+        },
+		{
+			"names": [
+				"display"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.2,
+			"displayYPadding": 0.2,
+			"displayColor": "A5A200",
+			"displayOptions": [
+				"ALIGN_CENTER",
+				"CYCLE_LANGUAGES"
+			],
+			"displayType": "DESTINATION",
+			"displayDefaultText": "lighTram"
+		},
+		{
+			"names": [
+				"routedisplay"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.2,
+			"displayYPadding": 0.2,
+			"displayColor": "A5A200",
+			"displayOptions": [
+				"ALIGN_CENTER",
+				"CYCLE_LANGUAGES"
+			],
+			"displayType": "ROUTE_NUMBER",
+			"displayDefaultText": "000"
+		},
+		{
+			"names": [
+				"display2"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.1,
+			"displayYPadding": 0.1,
+			"displayColor": "000000",
+			"displayOptions": [
+				"ALIGN_CENTER",
+				"CYCLE_LANGUAGES"
+			],
+			"displayType": "DESTINATION",
+			"displayDefaultText": "To Depot"
+		},
+		{
+			"names": [
+				"routedisplay2"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.1,
+			"displayYPadding": 0.1,
+			"displayColor": "000000",
+			"displayOptions": [
+				"ALIGN_CENTER",
+				"CYCLE_LANGUAGES"
+			],
+			"displayType": "ROUTE_NUMBER",
+			"displayDefaultText": "000"
+		},
+		{
+			"names": [
+				"nextdisplay2"
+			],
+			"positionDefinitions": [
+				"display"
+			],
+			"type": "DISPLAY",
+			"displayXPadding": 0.1,
+			"displayYPadding": 0.1,
+			"displayColor": "FFFFFF",
+			"displayOptions": [
+				"ALIGN_CENTER"
+			],
+			"displayType": "NEXT_STATION",
+			"displayDefaultText": "Welcome Onboard"
+		}
+    ]
+  }
