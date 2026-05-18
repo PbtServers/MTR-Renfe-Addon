@@ -26,14 +26,14 @@
 					"modelPropertiesResource": "mtr:n4420/properties/n4420.json",
 					"positionDefinitionsResource": "mtr:n4420/properties/def.json",
 					"flipTextureV": true
-                },
+				},
 				{
 					"modelResource": "mtr:n4420/n4420.bbmodel",
 					"textureResource": "mtr:otokar/texture.png",
 					"modelPropertiesResource": "mtr:n4420/properties/n4420.json",
 					"positionDefinitionsResource": "mtr:n4420/properties/def.json",
 					"flipTextureV": true
-                }
+				}
 			],
 			"bogie1Models": [
 				{
@@ -83,14 +83,14 @@
 					"modelPropertiesResource": "mtr:berkhof/properties/berkhof.json",
 					"positionDefinitionsResource": "mtr:berkhof/properties/def.json",
 					"flipTextureV": true
-                },
+				},
 				{
 					"modelResource": "mtr:berkhof/berkhof.bbmodel",
 					"textureResource": "mtr:otokar/texture.png",
 					"modelPropertiesResource": "mtr:berkhof/properties/berkhof.json",
 					"positionDefinitionsResource": "mtr:berkhof/properties/def.json",
 					"flipTextureV": true
-                }
+				}
 			],
 			"bogie1Models": [
 				{
@@ -140,14 +140,14 @@
 					"modelPropertiesResource": "mtr:w906/properties/w906.json",
 					"positionDefinitionsResource": "mtr:w906/properties/def.json",
 					"flipTextureV": true
-                },
+				},
 				{
 					"modelResource": "mtr:w906/w906.bbmodel",
 					"textureResource": "mtr:w906/texture.png",
 					"modelPropertiesResource": "mtr:w906/properties/w906.json",
 					"positionDefinitionsResource": "mtr:w906/properties/def.json",
 					"flipTextureV": true
-                }
+				}
 			],
 			"bogie1Models": [
 				{
@@ -197,14 +197,14 @@
 					"modelPropertiesResource": "mtr:solaris18/properties/solaris18.json",
 					"positionDefinitionsResource": "mtr:solaris18/properties/def.json",
 					"flipTextureV": true
-                },
+				},
 				{
 					"modelResource": "mtr:solaris18/solaris18a.bbmodel",
 					"textureResource": "mtr:otokar/texture.png",
 					"modelPropertiesResource": "mtr:solaris18/properties/solaris18.json",
 					"positionDefinitionsResource": "mtr:solaris18/properties/def.json",
 					"flipTextureV": true
-                }
+				}
 			],
 			"bogie1Models": [
 				{
@@ -254,14 +254,14 @@
 					"modelPropertiesResource": "mtr:solaris18/properties/solaris18.json",
 					"positionDefinitionsResource": "mtr:solaris18/properties/def.json",
 					"flipTextureV": true
-                },
+				},
 				{
 					"modelResource": "mtr:solaris18/solaris18b.bbmodel",
 					"textureResource": "mtr:otokar/texture.png",
 					"modelPropertiesResource": "mtr:solaris18/properties/solaris18.json",
 					"positionDefinitionsResource": "mtr:solaris18/properties/def.json",
 					"flipTextureV": true
-                }
+				}
 			],
 			"bogie1Models": [
 				{
@@ -282,62 +282,6 @@
 				}
 			],
 			"hasGangway1": true,
-			"hasGangway2": false,
-			"bveSoundBaseResource": "vdl_citea"
-		},
-		{
-			"id": "14trm",
-			"name": "Skoda 14TrM - DPO",
-			"color": "FFFFFF",
-			"transportMode": "TRAIN",
-			"length": 12,
-			"width": 2,
-			"bogie1Position": -5.0,
-			"bogie2Position": 5.0,
-			"couplingPadding1": 0,
-			"couplingPadding2": 0,
-			"wikipediaArticle": "",
-			"tags": [
-				"family:bus",
-				"iso_3166:CZ",
-				"doors:3",
-				"type:cab"
-			],
-			"models": [
-				{
-					"modelResource": "mtr:14trm/14trm.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:14trm/properties/14trm.json",
-					"positionDefinitionsResource": "mtr:14trm/properties/def.json",
-					"flipTextureV": true
-                },
-				{
-					"modelResource": "mtr:14trm/14trm.bbmodel",
-					"textureResource": "mtr:otokar/texture.png",
-					"modelPropertiesResource": "mtr:14trm/properties/14trm.json",
-					"positionDefinitionsResource": "mtr:14trm/properties/def.json",
-					"flipTextureV": true
-                }
-			],
-			"bogie1Models": [
-				{
-					"modelResource": "mtr:bogie/nobogie.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:14trm/properties/bog.json",
-					"positionDefinitionsResource": "mtr:14trm/properties/origin.json",
-					"flipTextureV": true
-				}
-			],
-			"bogie2Models": [
-				{
-					"modelResource": "mtr:bogie/nobogie.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:14trm/properties/bog.json",
-					"positionDefinitionsResource": "mtr:14trm/properties/origin.json",
-					"flipTextureV": true
-				}
-			],
-			"hasGangway1": false,
 			"hasGangway2": false,
 			"bveSoundBaseResource": "vdl_citea"
 		},
@@ -367,14 +311,14 @@
 					"modelPropertiesResource": "mtr:trollino12/properties/trollino12.json",
 					"positionDefinitionsResource": "mtr:trollino12/properties/def.json",
 					"flipTextureV": true
-                },
+				},
 				{
 					"modelResource": "mtr:trollino12/trollino12.bbmodel",
 					"textureResource": "mtr:otokar/texture.png",
 					"modelPropertiesResource": "mtr:trollino12/properties/trollino12.json",
 					"positionDefinitionsResource": "mtr:trollino12/properties/def.json",
 					"flipTextureV": true
-                }
+				}
 			],
 			"bogie1Models": [
 				{
@@ -395,348 +339,6 @@
 				}
 			],
 			"hasGangway1": false,
-			"hasGangway2": false,
-			"bveSoundBaseResource": "vdl_citea"
-		},
-		{
-			"id": "15tra",
-			"name": "Skoda 15Tr - Head",
-			"color": "FFFFFF",
-			"transportMode": "TRAIN",
-			"length": 10,
-			"width": 2,
-			"bogie1Position": -4.5,
-			"bogie2Position": 2.875,
-			"couplingPadding1": 0,
-			"couplingPadding2": 0.2,
-			"wikipediaArticle": "",
-			"legacyRiderOffset": -0.5,
-			"tags": [
-				"family:bus",
-				"iso_3166:CZ",
-				"doors:2",
-				"type:cab"
-			],
-			"models": [
-				{
-					"modelResource": "mtr:15tr/15tra.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:15tr/properties/15tr.json",
-					"positionDefinitionsResource": "mtr:15tr/properties/def.json",
-					"flipTextureV": true
-                },
-				{
-					"modelResource": "mtr:15tr/15tra.bbmodel",
-					"textureResource": "mtr:otokar/texture.png",
-					"modelPropertiesResource": "mtr:15tr/properties/15tr.json",
-					"positionDefinitionsResource": "mtr:15tr/properties/def.json",
-					"flipTextureV": true
-                }
-			],
-			"bogie1Models": [
-				{
-					"modelResource": "mtr:bogie/nobogie.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:15tr/properties/bog.json",
-					"positionDefinitionsResource": "mtr:15tr/properties/origin.json",
-					"flipTextureV": true
-				}
-			],
-			"bogie2Models": [
-				{
-					"modelResource": "mtr:bogie/nobogie.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:15tr/properties/bog.json",
-					"positionDefinitionsResource": "mtr:15tr/properties/origin.json",
-					"flipTextureV": true
-				}
-			],
-			"hasGangway1": false,
-			"hasGangway2": true,
-			"bveSoundBaseResource": "vdl_citea"
-		},
-		{
-			"id": "15trb",
-			"name": "Skoda 15Tr - Tail",
-			"color": "FFFFFF",
-			"transportMode": "TRAIN",
-			"length": 8,
-			"width": 2,
-			"bogie1Position": -3.5,
-			"bogie2Position": 2.375,
-			"couplingPadding1": 0,
-			"couplingPadding2": 0,
-			"wikipediaArticle": "",
-			"legacyRiderOffset": -0.5,
-			"tags": [
-				"family:bus",
-				"iso_3166:CZ",
-				"doors:2",
-				"type:cab"
-			],
-			"models": [
-				{
-					"modelResource": "mtr:15tr/15trb.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:15tr/properties/15tr.json",
-					"positionDefinitionsResource": "mtr:15tr/properties/def.json",
-					"flipTextureV": true
-                },
-				{
-					"modelResource": "mtr:15tr/15trb.bbmodel",
-					"textureResource": "mtr:otokar/texture.png",
-					"modelPropertiesResource": "mtr:15tr/properties/15tr.json",
-					"positionDefinitionsResource": "mtr:15tr/properties/def.json",
-					"flipTextureV": true
-                }
-			],
-			"bogie1Models": [
-				{
-					"modelResource": "mtr:bogie/nobogie.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:15tr/properties/bog.json",
-					"positionDefinitionsResource": "mtr:15tr/properties/origin.json",
-					"flipTextureV": true
-				}
-			],
-			"bogie2Models": [
-				{
-					"modelResource": "mtr:bogie/nobogie.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:15tr/properties/bog.json",
-					"positionDefinitionsResource": "mtr:15tr/properties/origin.json",
-					"flipTextureV": true
-				}
-			],
-			"hasGangway1": true,
-			"hasGangway2": false,
-			"bveSoundBaseResource": "vdl_citea"
-		},
-		{
-			"id": "21tr",
-			"name": "Skoda 21Tr",
-			"color": "FFFFFF",
-			"transportMode": "TRAIN",
-			"length": 12,
-			"width": 2,
-			"bogie1Position": -5.0,
-			"bogie2Position": 5.0,
-			"couplingPadding1": 0,
-			"couplingPadding2": 0,
-			"wikipediaArticle": "",
-			"legacyRiderOffset": -0.5,
-			"tags": [
-				"family:bus",
-				"iso_3166:CZ",
-				"doors:3",
-				"type:cab"
-			],
-			"models": [
-				{
-					"modelResource": "mtr:21tr/21tr.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:21tr/properties/21tr.json",
-					"positionDefinitionsResource": "mtr:21tr/properties/def.json",
-					"flipTextureV": true
-                },
-				{
-					"modelResource": "mtr:21tr/21tr.bbmodel",
-					"textureResource": "mtr:otokar/texture.png",
-					"modelPropertiesResource": "mtr:21tr/properties/21tr.json",
-					"positionDefinitionsResource": "mtr:21tr/properties/def.json",
-					"flipTextureV": true
-                }
-			],
-			"bogie1Models": [
-				{
-					"modelResource": "mtr:bogie/nobogie.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:21tr/properties/bog.json",
-					"positionDefinitionsResource": "mtr:21tr/properties/origin.json",
-					"flipTextureV": true
-				}
-			],
-			"bogie2Models": [
-				{
-					"modelResource": "mtr:bogie/nobogie.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:21tr/properties/bog.json",
-					"positionDefinitionsResource": "mtr:21tr/properties/origin.json",
-					"flipTextureV": true
-				}
-			],
-			"hasGangway1": false,
-			"hasGangway2": false,
-			"bveSoundBaseResource": "vdl_citea"
-		},
-		{
-			"id": "hessa",
-			"name": "Hess lighTram (BGGT-N2C) - Head (Lucern)",
-			"color": "2063A7",
-			"transportMode": "TRAIN",
-			"length": 10,
-			"width": 2,
-			"bogie1Position": -5.25,
-			"bogie2Position": 5.5,
-			"couplingPadding1": 0,
-			"couplingPadding2": 0.5,
-			"wikipediaArticle": "",
-			"legacyRiderOffset": -0.5,
-			"tags": [
-				"family:bus",
-				"iso_3166:CH",
-				"doors:2",
-				"type:cab"
-			],
-			"models": [
-				{
-					"modelResource": "mtr:hess/hessa.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:hess/properties/hess.json",
-					"positionDefinitionsResource": "mtr:hess/properties/def.json",
-					"flipTextureV": true
-                },
-				{
-					"modelResource": "mtr:hess/hessa.bbmodel",
-					"textureResource": "mtr:otokar/texture.png",
-					"modelPropertiesResource": "mtr:hess/properties/hess.json",
-					"positionDefinitionsResource": "mtr:hess/properties/def.json",
-					"flipTextureV": true
-                }
-			],
-			"bogie1Models": [
-				{
-					"modelResource": "mtr:bogie/nobogie.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:hess/properties/bog.json",
-					"positionDefinitionsResource": "mtr:hess/properties/origin.json",
-					"flipTextureV": true
-				}
-			],
-			"bogie2Models": [
-				{
-					"modelResource": "mtr:bogie/nobogie.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:hess/properties/bog.json",
-					"positionDefinitionsResource": "mtr:hess/properties/origin.json",
-					"flipTextureV": true
-				}
-			],
-			"hasGangway1": false,
-			"hasGangway2": true,
-			"bveSoundBaseResource": "vdl_citea"
-		},
-		{
-			"id": "hessb",
-			"name": "Hess lighTram (BGGT-N2C) - Mid (Lucern)",
-			"color": "2063A7",
-			"transportMode": "TRAIN",
-			"length": 8,
-			"width": 2,
-			"bogie1Position": -3.875,
-			"bogie2Position": 3.9375,
-			"couplingPadding1": 0,
-			"couplingPadding2": -0.06,
-			"wikipediaArticle": "",
-			"legacyRiderOffset": -0.5,
-			"tags": [
-				"family:bus",
-				"iso_3166:CH",
-				"doors:1",
-				"type:cab"
-			],
-			"models": [
-				{
-					"modelResource": "mtr:hess/hessb.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:hess/properties/hess.json",
-					"positionDefinitionsResource": "mtr:hess/properties/def.json",
-					"flipTextureV": true
-                },
-				{
-					"modelResource": "mtr:hess/hessb.bbmodel",
-					"textureResource": "mtr:otokar/texture.png",
-					"modelPropertiesResource": "mtr:hess/properties/hess.json",
-					"positionDefinitionsResource": "mtr:hess/properties/def.json",
-					"flipTextureV": true
-                }
-			],
-			"bogie1Models": [
-				{
-					"modelResource": "mtr:bogie/nobogie.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:hess/properties/bog.json",
-					"positionDefinitionsResource": "mtr:hess/properties/origin.json",
-					"flipTextureV": true
-				}
-			],
-			"bogie2Models": [
-				{
-					"modelResource": "mtr:bogie/nobogie.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:hess/properties/bog.json",
-					"positionDefinitionsResource": "mtr:hess/properties/origin.json",
-					"flipTextureV": true
-				}
-			],
-			"hasGangway1": true,
-			"hasGangway2": true,
-			"bveSoundBaseResource": "vdl_citea"
-		},
-		{
-			"id": "hessc",
-			"name": "Hess lighTram (BGGT-N2C) - Tail (Lucern)",
-			"color": "2063A7",
-			"transportMode": "TRAIN",
-			"length": 7,
-			"width": 2,
-			"bogie1Position": -3.5625,
-			"bogie2Position": 3.75,
-			"couplingPadding1": 0,
-			"couplingPadding2": 0,
-			"wikipediaArticle": "",
-			"legacyRiderOffset": -0.5,
-			"tags": [
-				"family:bus",
-				"iso_3166:CH",
-				"doors:2",
-				"type:cab"
-			],
-			"models": [
-				{
-					"modelResource": "mtr:hess/hessc.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:hess/properties/hess.json",
-					"positionDefinitionsResource": "mtr:hess/properties/def.json",
-					"flipTextureV": true
-                },
-				{
-					"modelResource": "mtr:hess/hessc.bbmodel",
-					"textureResource": "mtr:otokar/texture.png",
-					"modelPropertiesResource": "mtr:hess/properties/hess.json",
-					"positionDefinitionsResource": "mtr:hess/properties/def.json",
-					"flipTextureV": true
-                }
-			],
-			"bogie1Models": [
-				{
-					"modelResource": "mtr:bogie/nobogie.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:hess/properties/bog.json",
-					"positionDefinitionsResource": "mtr:hess/properties/origin.json",
-					"flipTextureV": true
-				}
-			],
-			"bogie2Models": [
-				{
-					"modelResource": "mtr:bogie/nobogie.obj",
-					"textureResource": "mtr:ulf/tram_ulf_ab_albedo_opacity.png",
-					"modelPropertiesResource": "mtr:hess/properties/bog.json",
-					"positionDefinitionsResource": "mtr:hess/properties/origin.json",
-					"flipTextureV": true
-				}
-			],
-			"hasGangway1": true,
 			"hasGangway2": false,
 			"bveSoundBaseResource": "vdl_citea"
 		}
